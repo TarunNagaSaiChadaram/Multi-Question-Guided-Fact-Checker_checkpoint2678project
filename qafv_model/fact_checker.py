@@ -14,7 +14,7 @@ class QAFV_Fact_Checker:
         self.args = args
 
         # initialize sub-modules
-        API_KEY = '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'
+        API_KEY = 'yourapikey'
         model_name = 'gpt-3.5-turbo'
         self.question_generator = GPT3_Question_Generator(API_KEY, model_name)
         self.QA_module = GPT3_T5_Question_Answering(API_KEY, model_name)
@@ -66,7 +66,7 @@ class QAFV_Fact_Checker:
 if __name__ == "__main__":
     # Example arguments
     args = {
-        "API_KEY": "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",
+        "API_KEY": "yourapikey",
         "model_name": "gpt-3.5-turbo"
     }
     fact_checker = QAFV_Fact_Checker(args)

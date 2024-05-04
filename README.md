@@ -21,7 +21,7 @@ Inside the MultilingualData_Evaluation directory there will be datasets of each 
 We have multiligualitytesting_improved.ipynb where we used back_translation to english language and evaluated using hindi converted dataset.
 
 Note:
-While trying to run the ipynb notebooks or fact_checker.py files.Please give your API key removing the existing one as it wont work.
+While trying to run the ipynb notebooks or fact_checker.py files.Please give your API key.
 
 
 ## Reference
