@@ -1,11 +1,10 @@
-from question_generation import GPT3_Question_Generator
-from reasoner import Fact_Reasoner
-from question_answering import GPT3_T5_Question_Answering
+from question_generation_robust import GPT3_Question_Generator
+from reasoner_robust import Fact_Reasoner
+from question_answering_robust import GPT3_T5_Question_Answering
 import pandas as pd
 import csv
 from sklearn.metrics import f1_score
 from sklearn.metrics import classification_report
-import sys
 
 
 class QAFV_Fact_Checker:
@@ -19,7 +18,7 @@ class QAFV_Fact_Checker:
         self.question_generator = GPT3_Question_Generator(API_KEY, model_name)
         self.QA_module = GPT3_T5_Question_Answering(API_KEY, model_name)
         self.reasoner = Fact_Reasoner(API_KEY, model_name)
-        print(f"New Individual modules initialized.")
+        print(f"New Robust Individual modules initialized.")
 
     '''
     This one collabrates with GPT3
@@ -70,10 +69,17 @@ if __name__ == "__main__":
         "model_name": "gpt-3.5-turbo"
     }
     fact_checker = QAFV_Fact_Checker(args)
-    
+    # testing_claims = pd.read_csv("/Users/tarunchadaram/Library/CloudStorage/OneDrive-GeorgeMasonUniversity-O365Production/Gmu/sem2/678/main_project/QACheck_CS678project/qafv_model/updated_datasets/2-hop.csv")
+    # claims = testing_claims['claim']
+    # true_values = testing_claims['label']
+    # print(list(true_values))
 
-    claim = sys.argv[1]
-    
+    claim = "Skagen Paniter Peder Severin Kr√∏yer prerfered natuarlism alon gwith Tehodo rEsbern Philipsen and Kristian Zahrtmann"
+    # testing_claims = pd.read_csv("/Users/tarunchadaram/Library/CloudStorage/OneDrive-GeorgeMasonUniversity-O365Production/Gmu/sem2/678/main_project/QACheck_CS678project/qafv_model/updated_datasets/2-hop.csv")
+    # claims = testing_claims['claim']
+    # prediction_dict = []
+    # Verify the claim using the GPT3 method
+    # for claim in claims:
 
     prediction, history = fact_checker.verify_single_claim_GPT3(claim)
     # Print the result
@@ -88,6 +94,8 @@ if __name__ == "__main__":
         print("Rationale:", qa_result['rationale'])
         print()
 
+    # f1 = f1_score(true_values, prediction_dict)
+    # print("F1 Score:", f1)
 
 
     

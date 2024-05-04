@@ -1,0 +1,51 @@
+﻿uid,claim,supporting_facts,label,num_hops,hpqa_id
+f0912b51-c217-4b71-84df-f60307a55cf7,电影。大卫·扎亚斯在其中扮演警察奥斯本，这是约翰·加文·马尔科维奇没有与马特·达蒙和爱德华·诺顿一起出演的电影。,John Malkovich,NOT_SUPPORTED,3,5ac2a75755429967731025dc
+41223fef-32ce-47e1-b51b-3c6c3bf84319,电影。大卫·扎亚斯在其中扮演警察奥斯本，约翰·加文·马尔科维奇在这部电影中与马特·达蒙和爱德华·诺顿一起出演了服务员。,John Malkovich,NOT_SUPPORTED,3,5ac2a75755429967731025dc
+97dae03a-834c-453b-a17f-ba167a96be28,电影。大卫·扎亚斯在其中扮演警察奥斯本，这是约翰·加文·马尔科维奇与马特·达蒙和爱德华·诺顿共同出演的电影。,John Malkovich,SUPPORTED,3,5ac2a75755429967731025dc
+e8c12f01-600c-411b-a703-481b677e2285,电影。大卫·扎亚斯在其中扮演警察奥斯本，这是约翰·加文·马尔科维奇与摩根·弗里曼和爱德华·诺顿共同出演的电影。,John Malkovich,NOT_SUPPORTED,3,5ac2a75755429967731025dc
+17f15f71-30b7-4beb-a054-f659fd1e6a43,电影。大卫·扎亚斯主演的电影是约翰·加文·马尔科维奇与马特·达蒙和爱德华·诺顿共同出演的电影。,John Malkovich,SUPPORTED,3,5ac2a75755429967731025dc
+d7bb4fca-9b73-4901-a441-912471dba0ff,这部 2005 年黑色喜剧续集《忘记莎拉·马歇尔》由一位澳大利亚女演员主演，她与本·李一起出演了 2003 年电影《平静湖中的愤怒》。,Rose Byrne,NOT_SUPPORTED,3,5a8656ca554299211dda2afc
+3a6722ab-5875-49e6-9672-3a8c57b0617c,《忘记莎拉·马歇尔》的这部黑色喜剧续集由一位英国女演员主演，她曾与本·李一起出演 2003 年电影《平静湖中的愤怒》。,Rose Byrne,NOT_SUPPORTED,3,5a8656ca554299211dda2afc
+3afb6d32-27db-43df-9441-76211d11703e,《忘记莎拉·马歇尔》的这部黑色喜剧续集由一位澳大利亚女演员主演，她曾与本·李 (Ben Lee) 一起出演 2003 年电影《平静湖中的愤怒》。,Rose Byrne,SUPPORTED,3,5a8656ca554299211dda2afc
+92d5ef1a-cf21-40ce-b9aa-4b05f8c4b85c,《忘记莎拉·马歇尔》的这部黑色喜剧续集由一位澳大利亚女演员主演，她没有与本·李一起出演 2003 年电影《平静湖中的愤怒》。,Rose Byrne,NOT_SUPPORTED,3,5a8656ca554299211dda2afc
+55bdd903-e3a1-4058-9be9-974ea17698e7,《忘记莎拉·马歇尔》的这部喜剧续集由一位澳大利亚女演员主演，她与本·李一起出演了 2003 年电影《平静湖中的愤怒》。,Rose Byrne,SUPPORTED,3,5a8656ca554299211dda2afc
+b38f865e-ec16-426e-bcbd-69a404d0c154,电影《克里斯托弗·罗宾》的编剧人数比 1984 年改编的电影《美人鱼结婚了》要少。,Splash (film),NOT_SUPPORTED,3,5a7f3361554299306751369a
+f2cbf2a9-cc79-42ae-91da-b1fd414c7a75,电影《克里斯托弗·罗宾》的编剧人数比 20 世纪 80 年代电影《美人鱼结婚了》的编剧还要多。,Splash (film),SUPPORTED,3,5a7f3361554299306751369a
+f7112517-dfed-4ebc-a987-409d649b2624,电影《克里斯托弗·罗宾》比根据 1984 年电影《美人鱼结婚》改编的电影多了六位编剧。,Splash (film),NOT_SUPPORTED,3,5a7f3361554299306751369a
+27aedf8a-d2f6-4694-a789-7bd6d12b28be,电影《克里斯托弗·罗宾》的编剧人数比 1984 年电影《美人鱼结婚了》的编剧还要多。,Splash (film),SUPPORTED,3,5a7f3361554299306751369a
+832b3f78-b160-450c-844f-fe73b0a025e3,《混血营编年史》是该系列第一本书的名称。该系列先于 2012 年的《半神日记》。,The Heroes of Olympus,NOT_SUPPORTED,3,5adfa2ef554299025d62a30f
+85e0f15a-eed8-4732-89ca-17089551c152,《混血营编年史》是该系列第一本书的名称。该系列先于《半神日记》。,The Heroes of Olympus,SUPPORTED,3,5adfa2ef554299025d62a30f
+e856c3f8-49c2-4f42-b516-35c50e0cb78b,奥林巴斯是该系列第一本书的名称。该系列先于《半神日记》。,The Heroes of Olympus,NOT_SUPPORTED,3,5adfa2ef554299025d62a30f
+6ef32f18-c73c-4b7f-9a01-36e4ef4baca4,出生于1928年的美国作词家，与他人共同创作了音乐电影《幻想曲》的剧本。作词者共同创作了魔术乐队音乐剧《Philemon》,The Fantasticks (film),NOT_SUPPORTED,3,5ae685d65542996d980e7bd8
+6c3c9478-7170-45d6-b301-0c003d96304b,乌尔都语作词家，出生于 1928 年，与他人共同创作了音乐电影《The Fantastics》的剧本。作词者共同创作了外百老汇音乐剧“Philemon”,The Fantasticks (film),NOT_SUPPORTED,3,5ae685d65542996d980e7bd8
+7b86ec5a-3471-4b29-9d5f-e3a6c6e2d53d,出生于1928年的美国作词家，与他人共同创作了音乐电影《幻想曲》的剧本。作词者共同创作了外百老汇音乐剧“Philemon”,The Fantasticks (film),SUPPORTED,3,5ae685d65542996d980e7bd8
+d12aaebf-b402-46ad-aaf4-5dd6d8a06172,1928年出生的美国作词家，为音乐剧《最佳音乐剧》共同撰写剧本。作词者共同创作了外百老汇音乐剧“Philemon”,The Fantasticks (film),NOT_SUPPORTED,3,5ae685d65542996d980e7bd8
+3a21878e-155e-4b09-b4af-2476979714dd,1：Parnassius Nordmanni 是一种高海拔蝴蝶，发现于高加索地区。 2：幼虫以“C. alpestris”、“C. conorhiza”和“C. emanueli”等物种为食。 3：该物种和雪松在命名系统中被归类为属。,Corydalis,SUPPORTED,3,5aba5a4d5542994dbf0198ed
+11fcfba4-e11d-4127-a053-e61f662261a9,1：Parnassius Nordmanni 是一种发现于高加索地区的蝴蝶。 2：幼虫以“C. alpestris”、“C. conorhiza”和“C. emanueli”等物种为食。 3：该物种和雪松在命名系统中被归类为属。,Corydalis,SUPPORTED,3,5aba5a4d5542994dbf0198ed
+4d384bb2-545c-4dee-ad70-5109d0bb9a65,通常受筋膜红球菌影响的植物是松树属。百科全书也是如此。,Nicotiana,SUPPORTED,3,5ab6b71d5542995eadef006c
+398750af-dbbc-4c54-9d72-e2a88b9962d8,通常受筋膜红球菌影响的植物是北方松树的一个属。百科全书也是如此。,Nicotiana,NOT_SUPPORTED,3,5ab6b71d5542995eadef006c
+b7d753c0-0e30-4879-a638-6212b7170c40,《Unchained Memories》是在电影制作人蒂格雷·希尔 (Tigre Hill) 拍摄第一部纪录片之前制作的电影。,The Shame of a City,SUPPORTED,3,5a76404b5542994ccc91873d
+410aab21-5f37-47d7-8302-f1e76f0313f6,《Unchained Memories》是在电影制片人蒂格雷·希尔的第一部纪录片之前制作的纪录片。,The Shame of a City,SUPPORTED,3,5a76404b5542994ccc91873d
+f7d83e15-a36c-4323-9551-ff5eb3d3c5a9,《Unchained Memories》是在电影制作人泰格雷·希尔 (Tigre Hill) 制作第一部纪录片之前制作的著名纪录片。,The Shame of a City,SUPPORTED,3,5a76404b5542994ccc91873d
+e4c9a139-261e-4e94-8d54-2406260d2ece,这部 2011 年根据他和罗斯玛丽·萨克利夫改编的电视剧的导演也是一名作家。他写了电影《真实的犯罪》。,Jeremy Brock,SUPPORTED,3,5a8c585d554299653c1aa044
+04fc276f-9364-4a22-a7ff-a3694945e175,这部2011年根据他和里克曼改编的电视剧的导演也是一名作家。他写了电影《真实的犯罪》。,Jeremy Brock,NOT_SUPPORTED,3,5a8c585d554299653c1aa044
+8ef12732-54d6-45c4-9659-7cc6c99df86a,这部 2011 年喜剧片改编自他和罗斯玛丽·萨克利夫的导演，同时也是一名作家。他写了电影《真实的犯罪》。,Jeremy Brock,NOT_SUPPORTED,3,5a8c585d554299653c1aa044
+41a9c811-c263-43ed-9985-305d0d5d7c15,农民联盟是美国农民之间有组织的农业经济运动。它得到了朱利叶斯·韦兰出版的左翼政治周刊的支持。,Appeal to Reason (newspaper),SUPPORTED,3,5ae290015542994d89d5b427
+15c390f1-abf8-4bad-a5ff-e0434d5de09b,农民联盟是基督教农民之间有组织的农业经济运动。它得到了朱利叶斯·韦兰出版的左翼政治周刊的支持。,Appeal to Reason (newspaper),NOT_SUPPORTED,3,5ae290015542994d89d5b427
+86d3d442-5127-414f-a370-1c20f2f6add8,埃默里大学文理学院的成立早于威廉·里德利·威尔斯毕业于的学校。,Vanderbilt University,NOT_SUPPORTED,3,5ab32fc355429969a97a80fa
+dcf75a08-db9f-462c-8554-36ed6db53f22,埃默里大学的成立早于威廉·里德利·威尔斯毕业于的学校。,Vanderbilt University,SUPPORTED,3,5ab32fc355429969a97a80fa
+3acf9356-6527-46d3-9ec8-6892937ed38c,埃默里大学的成立早于威廉·里德利·威尔斯就读的学校。,Vanderbilt University,SUPPORTED,3,5ab32fc355429969a97a80fa
+8745fed7-eb1b-46e3-b4a2-743dd3bc4792,"他出生在一个 2010 年人口普查人口为 7,585 人的城市。他的父亲是众议员托马斯·J·亨利。",Barclay Henley,SUPPORTED,3,5ac38c75554299741d48a28a
+17bed1d7-3272-485a-ad3b-9e27b42436c2,他出生在一个 2010 年人口普查人口为 7500 多的城市。他的父亲是众议员托马斯·J·亨利。,Barclay Henley,SUPPORTED,3,5ac38c75554299741d48a28a
+b9267928-a59d-4777-9d1a-8ba9b17ecaba,作曲家弗朗兹·施雷克 (Franz Schreker) 也是一名教师，但这位与美国小提琴家蒂姆·费恩 (Tim Fain) 合作而闻名的作曲家却不是一名教师。,Philip Glass,SUPPORTED,3,5a7933b255429907847277eb
+f5764bf3-b521-4808-9f0c-59068b85da56,作曲家弗兰茨·施雷克（Franz Schreker）也是一名教师，但这位与美国人蒂姆·费恩（Tim Fain）最有名的合作伙伴却不是。,Philip Glass,SUPPORTED,3,5a7933b255429907847277eb
+f174f153-c127-4903-8ff3-e3d42aabe02c,作曲家弗兰茨·施雷克（Franz Schreker）也是一名高中教师，但这位与美国小提琴家蒂姆·费恩（Tim Fain）合作而闻名的作曲家却不是。,Philip Glass,NOT_SUPPORTED,3,5a7933b255429907847277eb
+6e2a9976-9f37-44d8-adfc-08ccdbd34f49,作曲家弗朗茨·施雷克 (Franz Schreker) 也是一名教师，但这位作曲家（斯洛文尼亚小提琴家蒂姆·费恩 (Tim Fain) 因与他合作而闻名）并不是教师。,Philip Glass,NOT_SUPPORTED,3,5a7933b255429907847277eb
+85aaf3a3-a472-44ec-a787-bb7da089af08,2009年美国职业足球大联盟全明星赛，一名美国球员在点球大战中扑出三球。德斯·麦卡利南曾经执教过这位为科罗拉多急流队效力了六个赛季的球员。,2009 MLS All-Star Game,NOT_SUPPORTED,3,5a8304a055429966c78a6aec
+68e9b5cb-0636-44ba-91af-927c40186340,2009年美国职业足球大联盟全明星赛，一名美国球员在点球大战中扑出三球。德斯·麦卡利南曾经执教过这位效力于科罗拉多急流队的球员。,2009 MLS All-Star Game,SUPPORTED,3,5a8304a055429966c78a6aec
+07a851d7-4832-47d5-9e7f-aac1850c0d4f,这位网球运动员在澳大利亚选手希瑟·沃森之前赢得了大满贯双打冠军。他还赢得了2012年法国南部公开赛双打冠军。,Édouard Roger-Vasselin,NOT_SUPPORTED,3,5a7c1c755542990527d55457
+498d5ba5-be22-49c1-a5cd-0fe3265af3b5,这位网球运动员在希瑟·沃森之前赢得了大满贯双打冠军。他还赢得了2012年法国南部公开赛双打冠军。,Édouard Roger-Vasselin,SUPPORTED,3,5a7c1c755542990527d55457
+2088868d-7a89-422a-a2e1-e1e1104a1f16,电视剧《灵魂伴侣》由克里斯蒂安·范·弗伦 (Christian Van Vuuren) 和一名演员主演。澳大利亚广播公司播出该演员制作的节目。,Nicholas Boshier,SUPPORTED,3,5ab3b37c554299753aec59b5
+47d7ee6a-329c-49d6-a541-f614fd351b14,电视剧《灵魂伴侣》由克里斯蒂安·范·弗伦 (Christian Van Vuuren) 和一名演员主演。澳大利亚广播公司播出该演员制作的成人动画片。,Nicholas Boshier,NOT_SUPPORTED,3,5ab3b37c554299753aec59b5
+d82e36c0-336c-470b-9c3c-cd267807420e,电视剧《灵魂伴侣》由克里斯蒂安·范·弗伦 (Christian Van Vuuren) 和一名演员主演。澳大利亚广播公司播出该演员制作的动画片。,Nicholas Boshier,SUPPORTED,3,5ab3b37c554299753aec59b5
+069da135-9756-43f1-915c-e8e55863a3ea,电视剧《灵魂伴侣》由特伦特和一名演员主演。澳大利亚广播公司播出该演员制作的动画片。,Nicholas Boshier,NOT_SUPPORTED,3,5ab3b37c554299753aec59b5

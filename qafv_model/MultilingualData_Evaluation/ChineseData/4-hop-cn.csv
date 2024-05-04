@@ -1,0 +1,51 @@
+﻿uid,claim,supporting_facts,label,num_hops,hpqa_id
+bdd1c20c-347a-42b4-ac27-0c57b7fc15d8,歌剧《Irrelohe》的创作者也是一名教师。这位因与美国小提琴家蒂姆·费恩合作而闻名的作曲家却不是。,Philip Glass,SUPPORTED,4,5a7933b255429907847277eb
+81ef54fb-1242-47c8-9641-5dc4cf975ba1,2009年美国职业足球大联盟全明星赛，一名美国球员在点球大战中扑出三球。德斯·麦卡利南曾经执教过这位在运动队效力的球员。两届世界冠军约翰·伯纳在运动队担任守门员。,2009 MLS All-Star Game,NOT_SUPPORTED,4,5a8304a055429966c78a6aec
+24354700-1a33-4a9c-8418-0af8cf44f7fe,2009年美国职业足球大联盟全明星赛，一名美国球员在点球大战中扑出三球。德斯·麦卡利南曾经执教过这位在运动队效力的球员。约翰·伯纳 (John Berner) 担任运动队的守门员。,2009 MLS All-Star Game,SUPPORTED,4,5a8304a055429966c78a6aec
+7b7e5222-f450-4a93-bce8-e121dfb07ced,这位网球运动员在2013年HP公开赛-单打卫冕冠军之前赢得了大满贯双打冠军。他还赢得了2012年法国南部公开赛双打冠军。,Édouard Roger-Vasselin,SUPPORTED,4,5a7c1c755542990527d55457
+b20ea48e-449a-4660-9706-254be6d9fdab,一座哥特式建筑位于巴黎卢克索方尖碑所在地。该建筑曾举办第七届卢米埃奖。,Hôtel de Crillon,NOT_SUPPORTED,4,5a81f5f155429926c1cdadc6
+14461980-cd14-4fa6-af45-53a92fad89b5,巴黎卢克索方尖碑所在地区有一栋建筑。该建筑曾举办第七届卢米埃奖。,Hôtel de Crillon,SUPPORTED,4,5a81f5f155429926c1cdadc6
+ec4c2045-36a2-4861-974e-46ddf58f55ac,这部电影的编剧和导演是日本人。这部电影还由另一位演员卡里主演。这部电影还由另一位演员卡里主演。这位演员还出演过《流星雨》。,The Tree of Life (film),NOT_SUPPORTED,4,5adfc8c255429906c02daa3e
+eb74a876-61b3-4d40-9540-b5958fb7ee32,这部电影的编剧和导演是美国人。这部电影还由另一位演员卡里主演。这部电影还由另一位演员卡里主演。这位演员还出演过《流星雨》。,The Tree of Life (film),SUPPORTED,4,5adfc8c255429906c02daa3e
+178937f8-2d0a-4d0a-a210-de7fc7b8bf17,1995 年的专辑《Takeover》（歌曲）于 2001 年发行，并被滚石杂志评为有史以来 500 张最伟大的专辑之一。 2001 年专辑中的歌手还有一首名为“Hard Knock Life (Ghetto Anthem)”的单曲。,Jay-Z,NOT_SUPPORTED,4,5ab2b224554299295394681a
+5450ec2b-7bfb-4b20-8b89-cf9923d99794,这张以《Takeover》（歌曲）为特色的专辑于 2001 年发行，并被滚石杂志评为有史以来 500 张最伟大的专辑之一。 2001 年专辑中的歌手还有一首名为“Hard Knock Life (Ghetto Anthem)”的单曲。,Jay-Z,SUPPORTED,4,5ab2b224554299295394681a
+c005020a-0d02-429b-b2c4-c6c4fa512f9f,南希·R·豪威尔 (Nancy R. Howell) 是堪萨斯州一座城市的大学教授。伍迪·沃尔特·怀特主教所属的教会也在堪萨斯州。,Saint Paul School of Theology,SUPPORTED,4,5ab677e2554299110f219a13
+3f43b962-0b4a-4fea-99aa-71a3ed6c2244,南希·R·豪威尔 (Nancy R. Howell) 是堪萨斯州一座城市的大学数学教授。伍迪·沃尔特·怀特主教所属的教会也在堪萨斯州。,Saint Paul School of Theology,NOT_SUPPORTED,4,5ab677e2554299110f219a13
+c4533a68-cd57-4fc5-a21d-116d039a8b58,歌曲《Death Valley '69》的演唱者和作者属于“给落后孩子的歌曲和建议”。他的乐队成员和迈克尔·阿克费尔特都是各自乐队的吉他手。,Mikael Åkerfeldt,NOT_SUPPORTED,4,5a77dbaf5542997042120b5b
+a498d9ae-3d43-42cd-bb6b-e16e7423f634,歌曲“Death Valley '69”的歌手和作者属于地球最后一夜。他的乐队成员和迈克尔·阿克费尔特都是各自乐队的吉他手。,Mikael Åkerfeldt,NOT_SUPPORTED,4,5a77dbaf5542997042120b5b
+20f89a9c-d7a1-468d-b460-e85913a9726c,歌曲《Death Valley '69》的歌手兼作曲家属于Sonic Youth。他的乐队成员和约翰·梅德斯基都是各自乐队的吉他手。,Mikael Åkerfeldt,NOT_SUPPORTED,4,5a77dbaf5542997042120b5b
+aeadf196-21a5-45df-ab88-c1147091660d,米凯尔·阿克费尔特 (Mikael Akerfeldt) 和瑟斯顿·摩尔 (Thurston Moore) 的乐队成员都是各自乐队的吉他手。摩尔和他的乐队成员发行了单曲《青年反法西斯主义》。,Mikael Åkerfeldt,SUPPORTED,4,5a77dbaf5542997042120b5b
+3503663a-c99c-4b3d-ae6f-e991a04629bb,歌曲《Death Valley '69》的歌手兼作曲家属于Sonic Youth。他的乐队成员和迈克尔·阿克费尔特都是各自乐队的吉他手。,Mikael Åkerfeldt,SUPPORTED,4,5a77dbaf5542997042120b5b
+f43519be-2992-42b3-ae5a-408392870ffe,米凯尔·阿克费尔特 (Mikael Akerfeldt) 和瑟斯顿·摩尔 (Thurston Moore) 的乐队成员都是各自乐队的吉他手。摩尔和他的乐队成员于 1995 年发行了单曲《Youth Against Fascism》。,Mikael Åkerfeldt,NOT_SUPPORTED,4,5a77dbaf5542997042120b5b
+1fa3a60b-0ff8-441c-8b1b-038665d8104e,1975年歌曲《Death Valley '69》的歌手兼作曲家属于Sonic Youth。他的乐队成员和迈克尔·阿克费尔特都是各自乐队的吉他手。,Mikael Åkerfeldt,NOT_SUPPORTED,4,5a77dbaf5542997042120b5b
+7f100325-b3c7-455d-9e05-07280afb18f0,美国摇滚乐队发行了《My Animal》。该乐队拥有的录音室专辑比第二张专辑《Rispah》的美国乐队还要多。,Boy Hits Car,SUPPORTED,4,5a8763d55542996e4f3087c3
+d27997d5-1f75-4051-bde4-ce8eb073fe92,美国摇滚乐队发行了《My Animal》。该乐队拥有的录音室专辑比第二张专辑《Rispah》的英国乐队还要多。,Boy Hits Car,SUPPORTED,4,5a8763d55542996e4f3087c3
+a1ccd609-8d48-4ceb-9eeb-88ac48b82cdf,一支英国摇滚乐队发行了《My Animal》。该乐队拥有的录音室专辑比第二张专辑《Rispah》的英国乐队还要多。,Boy Hits Car,NOT_SUPPORTED,4,5a8763d55542996e4f3087c3
+69f967ad-0353-4184-bc00-565c1c6dc006,美国摇滚乐队发行了《My Animal》。该乐队比第二张专辑《Rispah》的英国乐队多四张录音室专辑。,Boy Hits Car,NOT_SUPPORTED,4,5a8763d55542996e4f3087c3
+9f8bcc80-3aaf-42be-a1cc-4ab1a9406592,这个角色出现在漫画《地狱神探特辑：坏血》中。他是一家公司出版的漫画书中虚构的反英雄，有时充当出租车司机，由艾伦·摩尔、史蒂夫·比塞特和约翰·托特本创作。 《北地人》是该公司出版的美国漫画系列。,Chas Chandler (comics),SUPPORTED,4,5ae2239e5542996483e64900
+55482929-deec-4f8a-a9ae-f393b92f8325,这个角色出现在漫画《地狱神探特辑：坏血》中。他是一家公司出版的漫画书中虚构的反英雄，有时充当出租车司机，由艾伦·摩尔、史蒂夫·比塞特和约翰·托特本创作。 《北地人》是该公司出版的亚伯拉罕漫画系列。,Chas Chandler (comics),NOT_SUPPORTED,4,5ae2239e5542996483e64900
+0639393f-89e8-45e6-92a2-b775244ae677,这个角色出现在 2001 年的漫画《地狱神探特辑：坏血》中。他是一家公司出版的漫画书中虚构的反英雄，有时充当出租车司机，由艾伦·摩尔、史蒂夫·比塞特和约翰·托特本创作。 《北地人》是该公司出版的美国漫画系列。,Chas Chandler (comics),NOT_SUPPORTED,4,5ae2239e5542996483e64900
+5d07a25b-7bec-4536-ba32-6f013b49aab0,这个角色出现在漫画《地狱神探特辑：坏血》中。他是一家公司出版的漫画书中虚构的反英雄，有时充当出租车司机，由布鲁斯·蒂姆、史蒂夫·比塞特和约翰·托特本创作。 《北地人》是该公司出版的美国漫画系列。,Chas Chandler (comics),NOT_SUPPORTED,4,5ae2239e5542996483e64900
+01ecc053-ab9a-403f-8dc7-76e46476030c,发行《Fall from the Ceiling》的乐队和这个乐队都是摇滚乐队。该乐队由加拿大商人 Mike Smith（A&R 人）签约。,Supergrass,NOT_SUPPORTED,4,5ab451f85542991779162c6c
+5bbd0596-331b-4cdf-ba49-789c7b5154c8,发行《Fall from the Ceiling》的乐队和这个乐队都是摇滚乐队。该乐队由迈克·史密斯（Quietdrive 人）签约。,Supergrass,NOT_SUPPORTED,4,5ab451f85542991779162c6c
+dfb4e39b-3cce-415e-91d0-e333bf3f6445,发行《Fall from the Ceiling》的乐队和这个乐队都是摇滚乐队。乐队由 Mike Smith（A&R 人）签约。,Supergrass,SUPPORTED,4,5ab451f85542991779162c6c
+1dc31e30-7d38-46ca-a0e7-92b07b22b437,1995 年《低地》的主演也执导了这部电影。 1935 年，他与卡尔·阿滕伯格 (Karl Attenberger) 合作拍摄了一部宣传纪录片。那部纪录片和《美国末日》是在不同年份制作的。,Triumph of the Will,NOT_SUPPORTED,4,5adc2f53554299438c868d6d
+1d6ae07e-d017-4ff2-b7ed-62b79bab8037,《低地》的明星也执导了这部电影。 1935 年，他与卡尔·阿滕伯格 (Karl Attenberger) 合作拍摄了一部宣传纪录片。那部纪录片和《美国末日》是在不同年份制作的。,Triumph of the Will,SUPPORTED,4,5adc2f53554299438c868d6d
+6495e780-a067-4b82-809a-ba4462e598f6,一家特许经营航空公司运营的飞机拥有航空公司的全套制服，其主要基地位于约翰内斯堡奥利弗·雷金纳德·坦博国际机场 4 号航站楼。荷航拥有这家特许经营航空公司 18% 的股份。 Z-CARD 的发明者是第一家航空公司的顾问。,British Airways franchise destinations,NOT_SUPPORTED,4,5add2cea554299473435388f
+9b27553a-6462-4862-ad0d-7e3274609e4d,一家特许经营航空公司运营的飞机拥有航空公司的全套制服，其主要基地位于约翰内斯堡奥利弗·雷金纳德·坦博国际机场。荷航拥有这家特许经营航空公司 18% 的股份。 Z-CARD 的发明者是第一家航空公司的顾问。,British Airways franchise destinations,SUPPORTED,4,5add2cea554299473435388f
+42868a1d-f9eb-4029-8740-abb5a39fbcd7,一家特许经营航空公司运营的飞机拥有航空公司的全套制服，其主要基地位于约翰内斯堡的 OR 肯特国际机场。荷航拥有这家特许经营航空公司 18% 的股份。 Z-CARD 的发明者是第一家航空公司的顾问。,British Airways franchise destinations,NOT_SUPPORTED,4,5add2cea554299473435388f
+585206e4-cde3-4834-b89b-abbf21a63020,弗兰克·克拉克（美式橄榄球）青少年时期参加的橄榄球赛季的参与者由凯文·里斯·威尔逊带领。他现任埃尔克哈特中央高中的进攻协调员。弗兰克·克拉克（Frank Clark）入选第二阵容。,2013 Indiana Hoosiers football team,NOT_SUPPORTED,4,5ae60b9b554299546bf8302f
+44bfa59b-2f2b-4303-b7c5-a1065e532afb,弗兰克·克拉克（美式橄榄球）青少年时期参加的橄榄球赛季的参与者由凯文·里斯·威尔逊带领。他是俄亥俄州立大学现任进攻协调员。弗兰克·克拉克入选一线队。,2013 Indiana Hoosiers football team,NOT_SUPPORTED,4,5ae60b9b554299546bf8302f
+91bf1892-cb3c-4f6a-a5e7-0753793de821,弗兰克·克拉克（美式橄榄球）青少年时期参加的橄榄球赛季的参与者由凯文·威尔逊带领。他是俄亥俄州立大学现任进攻协调员。弗兰克·克拉克（Frank Clark）入选第二阵容。,2013 Indiana Hoosiers football team,SUPPORTED,4,5ae60b9b554299546bf8302f
+fa34619b-30cd-4d8d-a83a-905377ba8252,妮可·斯特鲁斯的乒乓球搭档的出生地是中国的一个县级市。共青城的发源地也是中国的一个县级市。,Linhai,SUPPORTED,4,5ac164da55429964131be1bf
+b6708e58-868f-4e2e-bf11-7d2035e46b61,克罗地亚乒乓球搭档尼科尔·施特鲁斯的出生地是中国的一个县级市。共青城的发源地也是中国的一个县级市。,Linhai,NOT_SUPPORTED,4,5ac164da55429964131be1bf
+ffa58cec-4b4f-4be1-9610-95b01d5428ed,举办比赛的足球场位于这座多功能体育和娱乐设施内，目前是职业足球俱乐部基辅迪纳摩的所在地。意大利与西班牙的足球对抗赛在这场比赛中举行。,FC Dynamo Kyiv,SUPPORTED,4,5a737dc455429908901be2c9
+d5bd5afe-9264-4383-b3ad-a332ed9e816e,艾伦·西利托是一位小说家。 1902 年获得西奥多·蒙森奖的诗人外交官也是一位小说家。,Gabriela Mistral,NOT_SUPPORTED,4,5a72c9e85542991f9a20c595
+19f87d8a-1912-4d16-a6b1-314228b960c0,这位同时获得诺贝尔文学奖的诗人外交家是一位自由作家。 《周六夜》和《周日早晨》的作者也是如此。,Gabriela Mistral,NOT_SUPPORTED,4,5a72c9e85542991f9a20c595
+b7c049f6-9c94-4812-a6b5-e1f57b5165de,这位同时获得诺贝尔文学奖的诗人外交家也是一位作家。 《周六夜》和《周日早晨》的作者也是如此。,Gabriela Mistral,SUPPORTED,4,5a72c9e85542991f9a20c595
+5d9627c2-6983-4e5b-9598-76f642018fcc,艾伦·西利托是一位作家。获得 1902 年西奥多·蒙森奖的诗人外交官也是一位作家。,Gabriela Mistral,SUPPORTED,4,5a72c9e85542991f9a20c595
+840cefbe-9c31-46fc-b54d-7e71c08a4032,《谁会安慰托夫勒》系列丛书是 1965 年出版后于 11 月发行的 Moominvalley 的一部分。它是对瑞典作家欧内斯特·海明威 (Ernest Hemingway) 所写小说的松散引用。,Moominpappa at Sea,NOT_SUPPORTED,4,5a732a345542991f29ee2d21
+bf677665-5bca-4271-8d2e-c7ce24fcbc49,理查德·J·伍德是这所大学的数学教授。它的校园数量比杰克·富贝克担任比较文学教授的大学还要多。,Dalhousie University,NOT_SUPPORTED,4,5adbe27c55429947ff173854
+6c0e0889-1690-45f8-94a0-ed646bcf05da,理查德·J·伍德是这所大学的数学教授。它比杰克·富贝克 (Jack Fulbeck) 担任比较文学教授的大学多 3 个校区。,Dalhousie University,NOT_SUPPORTED,4,5adbe27c55429947ff173854
+55e82a7f-b564-4783-8290-51f5e90d5ba8,泰德国家​​公园位于西班牙境内。您可以在公园里找到蓝蓟 (Echium wildpretii subsp)。毛管虫。弗朗西斯科·巴哈蒙德·德卢戈 (Francisco Bahamonde De Lugo) 1467 年出生于西班牙领土。,Caldera de Taburiente National Park,NOT_SUPPORTED,4,5a7530fa5542993748c897e2
+080a4c9b-b3da-4c65-a5b8-5f34edc80190,粘性腺果树是主要灌木的地区位于西班牙加那利群岛。您可以在公园里找到蓝蓟 (Echium wildpretii subsp)。毛管虫。,Caldera de Taburiente National Park,SUPPORTED,4,5a7530fa5542993748c897e2

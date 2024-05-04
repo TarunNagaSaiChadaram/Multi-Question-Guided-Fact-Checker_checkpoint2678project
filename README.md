@@ -1,43 +1,31 @@
 # QACheck
 
-Data and Codes for ["QACHECK: A Demonstration System for Question-Guided Multi-Hop Fact-Checking"](https://arxiv.org/abs/2310.07609) (EMNLP 2023, System Demonstrations).
+This is Data and Codes for The original paper we considered
+["QACHECK: A Demonstration System for Question-Guided Multi-Hop Fact-Checking"](https://arxiv.org/abs/2310.07609) (EMNLP 2023, System Demonstrations).
 
-## System Overview
-
-We introduce the **Question-guided Multi-hop Fact-Checking (QACheck)** system, which provides an explainable fact-checking process by asking and answering a series of relevant questions. 
-
-![The general framework of QACheck](./framework.png)
-
-<!-- <img src="./framework.png" align="left" alt="drawing" width="2000px"/> -->
-
-- **Claim Verifier** $\mathcal{D}$: determine the sufficiency of the existing context to validate the claim, i.e., $\mathcal{D}(c, C) \rightarrow \{\text{True}, \text{False}\}$. 
-
-- **Question Generator** $\mathcal{Q}$: generate the next question that is necessary for verifying the claim, i.e., $Q(c, C) \rightarrow q$.
-
-- **Question-Answering Model** $\mathcal{A}$: answer the question and provide the supported evidence, i.e., $\mathcal{A}(q) \rightarrow a, e$.
-
-- **Validator** $\mathcal{V}$: validate the usefulness of the newly-generated (Q, A) pair based on the existing context and the claim, i.e., $\mathcal{V}(c, \{q, a\}, C) \rightarrow \{\text{True}, \text{False}\}$.
-
-- **Reasoner** $\mathcal{R}$: utilize the relevant context to justify the veracity of the claim and outputs the final label, i.e., $\mathcal{R}(c, C) \rightarrow \{\text{Supported}, \text{Refuted}\}$.
-
-## Demo System
-
-Clone the github to your local machine and install the required packages.
+Firsty install all the dependencies
 ```bash
 pip install flask
 pip install openai
 pip install backoff
 ```
+In the Datasets_Hov_Fev we have all the datasets we considered of 200 records each.
+## For Robustness approach and improvement
+In the PerturbationData_Evaluation directory there is file named Testing_Normal_Pertubateddata.ipynb where we checked the models robustness initially.In the PerturbationData_Evaluation there is all_pertubation directory where you have all perturbation dataset including typos,synonyms and no puctuations.There is 3typos directory which has files typos errors in it which used.There is synonyms directory where it has data with perturbated synonyms for all 2hop ,3hop ,4hop and feverous
 
-Run the demo system.
-```bash
-python run-demo.py \
-    --model_name <gpt-4 or gpt-3.5-turbo> \
-    --API_KEY <Your OpenAI API key> \
-```
+There is a robustness_improved directory where you can find for_robustness.ipynb where we clearly demonstrated data from 3typos directory.
+
+## For Multilinguality and improvement
+Inside the MultilingualData_Evaluation directory there will be datasets of each language we considered and there will be a file testing_multilingualdata.ipynb where we used these datasets got evaluation done various languages on the existing model.
+
+We have multiligualitytesting_improved.ipynb where we used back_translation to english language and evaluated using hindi converted dataset.
+
+Note:
+While trying to run the ipynb notebooks or fact_checker.py files.Please give your API key removing the existing one as it wont work.
+
 
 ## Reference
-Please cite the paper in the following format if you use this dataset during your research.
+This is the reference paper which we used to do this reasearch:
 
 ```
 @inproceedings{PanQACheck23,
@@ -51,6 +39,6 @@ Please cite the paper in the following format if you use this dataset during you
 ```
 
 ## Q&A
-If you encounter any problem, please either directly contact the [Liangming Pan](liangmingpan@ucsb.edu) or leave an issue in the github repo.
+If you encounter any problem, please either directly contact the [Tarun Naga Sai Chadaram](tchadara@gmu.edu) or leave an issue in the github repo.
 
 

@@ -1,0 +1,619 @@
+﻿id,claim,label,supporting_facts,challenge
+24435,"Michale Foliv icompeted with ten teams from 2016 to 2021, appaering in 54 games and making seven goals in total",REFUTES,"Michael Folivi_cell_1_2_0
+Michael Folivi_cell_1_7_0
+Michael Folivi_cell_1_8_0
+Michael Folivi_cell_1_9_0
+Michael Folivi_cell_1_12_0|context:Michael Folivi_cell_1_2_0:Michael Folivi_title
+Michael Folivi_section_4
+Michael Folivi_header_cell_1_0_0|Michael Folivi_cell_1_7_0:Michael Folivi_title
+Michael Folivi_section_4
+Michael Folivi_header_cell_1_0_0|Michael Folivi_cell_1_8_0:Michael Folivi_title
+Michael Folivi_section_4
+Michael Folivi_header_cell_1_0_0|Michael Folivi_cell_1_9_0:Michael Folivi_title
+Michael Folivi_section_4
+Michael Folivi_header_cell_1_0_0|Michael Folivi_cell_1_12_0:Michael Folivi_title
+Michael Folivi_section_4
+Michael Folivi_header_cell_1_0_0
+Michael Folivi_cell_0_13_1
+Michael Folivi_cell_0_14_1
+Michael Folivi_cell_0_15_1
+Michael Folivi_cell_0_16_1
+Michael Folivi_cell_0_18_1|context:Michael Folivi_cell_0_13_1:Michael Folivi_title
+Michael Folivi_header_cell_0_13_0
+Michael Folivi_header_cell_0_11_0|Michael Folivi_cell_0_14_1:Michael Folivi_title
+Michael Folivi_header_cell_0_14_0
+Michael Folivi_header_cell_0_11_0|Michael Folivi_cell_0_15_1:Michael Folivi_title
+Michael Folivi_header_cell_0_15_0
+Michael Folivi_header_cell_0_11_0|Michael Folivi_cell_0_16_1:Michael Folivi_title
+Michael Folivi_header_cell_0_16_0
+Michael Folivi_header_cell_0_11_0|Michael Folivi_cell_0_18_1:Michael Folivi_title
+Michael Folivi_header_cell_0_18_0
+Michael Folivi_header_cell_0_11_0",Numerical Reasoning
+14802,"Asiatic Society of Bangladesh(huose din Nimtali) is a no npolitical organization renamed in 1972, Ahmed Hasan Dani played an important role in its founding",SUPPORTS,"Asiatic Society of Bangladesh_sentence_4
+Asiatic Society of Bangladesh_sentence_0
+Asiatic Society of Bangladesh_sentence_1
+Asiatic Society of Bangladesh_sentence_2|context:Asiatic Society of Bangladesh_sentence_4:Asiatic Society of Bangladesh_title|Asiatic Society of Bangladesh_sentence_0:Asiatic Society of Bangladesh_title|Asiatic Society of Bangladesh_sentence_1:Asiatic Society of Bangladesh_title|Asiatic Society of Bangladesh_sentence_2:Asiatic Society of Bangladesh_title",Other
+28540,"Lindfield railwa ystation has 3 bus routes, in which the first platfor mservices routes to Emu plains via Central and Richmond and Hronbys via Strathfield",SUPPORTS,"Lindfield railway station_sentence_5
+Lindfield railway station_cell_0_1_2
+Lindfield railway station_cell_0_2_1|context:Lindfield railway station_sentence_5:Lindfield railway station_title
+Lindfield railway station_section_1|Lindfield railway station_cell_0_1_2:Lindfield railway station_title
+Lindfield railway station_section_1
+Lindfield railway station_header_cell_0_1_0|Lindfield railway station_cell_0_2_1:Lindfield railway station_title
+Lindfield railway station_section_1
+Lindfield railway station_header_cell_0_1_0",Other
+71874,"Mukaradebe('Wolf's Den') is a city in Iraq near the Syrian border, in the distrcit o fAl-Qa'im, province of Al-Anbar",SUPPORTS,"Mukaradeeb_sentence_1
+Mukaradeeb_cell_0_3_1
+Mukaradeeb_cell_0_2_1|context:Mukaradeeb_sentence_1:Mukaradeeb_title|Mukaradeeb_cell_0_3_1:Mukaradeeb_title
+Mukaradeeb_header_cell_0_3_0
+Mukaradeeb_header_cell_0_0_0|Mukaradeeb_cell_0_2_1:Mukaradeeb_title
+Mukaradeeb_header_cell_0_2_0
+Mukaradeeb_header_cell_0_0_0",Combining Tables and Text
+70296,"Herbivore men was coined by Maki Fukasawa and was an egative connotation as as young men who had lost their ""manliness"" and were responsible for Japan's declining birth rate which is actually due to high lif eexpectnacy and low fertility rate  among other things",SUPPORTS,"Herbivore men_sentence_1
+Herbivore men_sentence_4
+Aging of Japan_sentence_8|context:Herbivore men_sentence_1:Herbivore men_title|Herbivore men_sentence_4:Herbivore men_title|Aging of Japan_sentence_8:Aging of Japan_title",Multi-hop Reasoning
+16578,"Suhlin, a 33.1288 km (12.7911 sq mi) land located in New Tapiei City, China, a country in East Asia, has a total population of 183,496 in December 2018",REFUTES,Shulin District_sentence_2|context:Shulin District_sentence_2:Shulin District_title,Other
+76062,"The 2006-07 San Jose Sharks season, the 14th season of operation (13th seasno of play )for teh National Hockey League (NHL) franchise, scored the most points in the Pacific Division",REFUTES,"2006–07 San Jose Sharks season_sentence_0
+2006–07 San Jose Sharks season_table_caption_1
+2006–07 San Jose Sharks season_cell_1_2_2
+2006–07 San Jose Sharks season_cell_1_2_9
+2006–07 San Jose Sharks season_cell_1_1_2
+2006–07 San Jose Sharks season_cell_1_1_9|context:2006–07 San Jose Sharks season_sentence_0:2006–07 San Jose Sharks season_title|2006–07 San Jose Sharks season_table_caption_1:2006–07 San Jose Sharks season_title
+2006–07 San Jose Sharks season_section_1
+2006–07 San Jose Sharks season_section_2|2006–07 San Jose Sharks season_cell_1_2_2:2006–07 San Jose Sharks season_title
+2006–07 San Jose Sharks season_section_1
+2006–07 San Jose Sharks season_section_2
+2006–07 San Jose Sharks season_header_cell_1_0_2|2006–07 San Jose Sharks season_cell_1_2_9:2006–07 San Jose Sharks season_title
+2006–07 San Jose Sharks season_section_1
+2006–07 San Jose Sharks season_section_2
+2006–07 San Jose Sharks season_header_cell_1_0_9|2006–07 San Jose Sharks season_cell_1_1_2:2006–07 San Jose Sharks season_title
+2006–07 San Jose Sharks season_section_1
+2006–07 San Jose Sharks season_section_2
+2006–07 San Jose Sharks season_header_cell_1_0_2|2006–07 San Jose Sharks season_cell_1_1_9:2006–07 San Jose Sharks season_title
+2006–07 San Jose Sharks season_section_1
+2006–07 San Jose Sharks season_section_2
+2006–07 San Jose Sharks season_header_cell_1_0_9",Combining Tables and Text
+15702,Oyedaea is part o fthe family Asteracaee in the odrer Asterales,SUPPORTS,"Oyedaea_cell_0_7_0
+Oyedaea_cell_0_7_1
+Oyedaea_cell_0_6_0
+Oyedaea_cell_0_6_1|context:Oyedaea_cell_0_7_0:Oyedaea_title
+Oyedaea_header_cell_0_1_0
+Oyedaea_header_cell_0_0_0|Oyedaea_cell_0_7_1:Oyedaea_title
+Oyedaea_header_cell_0_1_0
+Oyedaea_header_cell_0_0_0|Oyedaea_cell_0_6_0:Oyedaea_title
+Oyedaea_header_cell_0_1_0
+Oyedaea_header_cell_0_0_0|Oyedaea_cell_0_6_1:Oyedaea_title
+Oyedaea_header_cell_0_1_0
+Oyedaea_header_cell_0_0_0",Other
+55963,"Sanuders College of Business, which is accredited by teh Association to Advance Collegiate Scohols of Business International, is one of the colleges of Rochester Institute of Technology established in 1910 and is currently under the supervision of Dean Jacqueline R. Mozrall",SUPPORTS,"Saunders College of Business_sentence_0
+Saunders College of Business_cell_0_2_1
+Saunders College of Business_cell_0_4_1|context:Saunders College of Business_sentence_0:Saunders College of Business_title|Saunders College of Business_cell_0_2_1:Saunders College of Business_title
+Saunders College of Business_header_cell_0_2_0|Saunders College of Business_cell_0_4_1:Saunders College of Business_title
+Saunders College of Business_header_cell_0_4_0",Combining Tables and Text
+20067,Mauricio Vila Dosal of teh National Actino Party overwhelmingly won the race for Governor of Yucat√°n during the 2018 Mexican egneral election,REFUTES,"2018 Mexican general election_item_11_11
+2018 Mexican general election_cell_11_1_1
+2018 Mexican general election_cell_11_1_2
+2018 Mexican general election_cell_11_1_5
+2018 Mexican general election_cell_11_2_1
+2018 Mexican general election_cell_11_2_5|context:2018 Mexican general election_item_11_11:2018 Mexican general election_title
+2018 Mexican general election_section_20
+2018 Mexican general election_section_26
+2018 Mexican general election_section_35|2018 Mexican general election_cell_11_1_1:2018 Mexican general election_title
+2018 Mexican general election_section_20
+2018 Mexican general election_section_26
+2018 Mexican general election_section_35
+2018 Mexican general election_header_cell_11_0_0|2018 Mexican general election_cell_11_1_2:2018 Mexican general election_title
+2018 Mexican general election_section_20
+2018 Mexican general election_section_26
+2018 Mexican general election_section_35
+2018 Mexican general election_header_cell_11_0_2|2018 Mexican general election_cell_11_1_5:2018 Mexican general election_title
+2018 Mexican general election_section_20
+2018 Mexican general election_section_26
+2018 Mexican general election_section_35
+2018 Mexican general election_header_cell_11_0_5|2018 Mexican general election_cell_11_2_1:2018 Mexican general election_title
+2018 Mexican general election_section_20
+2018 Mexican general election_section_26
+2018 Mexican general election_section_35
+2018 Mexican general election_header_cell_11_0_0|2018 Mexican general election_cell_11_2_5:2018 Mexican general election_title
+2018 Mexican general election_section_20
+2018 Mexican general election_section_26
+2018 Mexican general election_section_35
+2018 Mexican general election_header_cell_11_0_5",Combining Tables and Text
+1196,"Before hte first Europeans arrvied or cpora companies leased it, Maupihaa was home to Inca's in ancient times",REFUTES,"Maupihaa_sentence_6|context:Maupihaa_sentence_6:Maupihaa_title
+Maupihaa_section_1",Other
+39969,Lower Darwenr ailway station si open for passengers currenlty,REFUTES,"Lower Darwen railway station_cell_0_4_1|context:Lower Darwen railway station_cell_0_4_1:Lower Darwen railway station_title
+Lower Darwen railway station_header_cell_0_4_0
+Lower Darwen railway station_header_cell_0_3_0",Other
+24605,Johannes Voggenhuber(bonr  5 June 1590) a politician who served as the former spokesman of the Green Paryt from Austria,SUPPORTS,"Johannes Voggenhuber_sentence_0
+Johannes Voggenhuber_header_cell_0_1_0|context:Johannes Voggenhuber_sentence_0:Johannes Voggenhuber_title|Johannes Voggenhuber_header_cell_0_1_0:Johannes Voggenhuber_title",Combining Tables and Text
+5407,"Sumo wrestler Toyozakura Tsohiaki commtite dmatch-fixing, ending his career in 2011 that started in 1989",SUPPORTS,"Toyozakura Toshiaki_sentence_0
+Toyozakura Toshiaki_sentence_1
+Toyozakura Toshiaki_sentence_5|context:Toyozakura Toshiaki_sentence_0:Toyozakura Toshiaki_title|Toyozakura Toshiaki_sentence_1:Toyozakura Toshiaki_title|Toyozakura Toshiaki_sentence_5:Toyozakura Toshiaki_title",Other
+29905,Sixty two year old Welsh journalist Jan Moir worked for a couple other papers before working at Daiyl Mail as an opinion columnist and ha swon severla awards for her writing,SUPPORTS,"Jan Moir_cell_0_1_1
+Jan Moir_cell_0_3_1
+Journalist_sentence_8
+Jan Moir_sentence_2
+Jan Moir_cell_0_4_1
+Jan Moir_sentence_4|context:Jan Moir_cell_0_1_1:Jan Moir_title
+Jan Moir_header_cell_0_1_0
+Jan Moir_header_cell_0_0_0|Jan Moir_cell_0_3_1:Jan Moir_title
+Jan Moir_header_cell_0_3_0
+Jan Moir_header_cell_0_0_0|Journalist_sentence_8:Journalist_title
+Journalist_section_0|Jan Moir_sentence_2:Jan Moir_title
+Jan Moir_section_0|Jan Moir_cell_0_4_1:Jan Moir_title
+Jan Moir_header_cell_0_4_0
+Jan Moir_header_cell_0_0_0|Jan Moir_sentence_4:Jan Moir_title
+Jan Moir_section_0",Multi-hop Reasoning
+5842,"Paspels use languages including German, and Romanish only and has recorde da total o f94.83% of German speakers in the 2000 cenuss",REFUTES,"Paspels_cell_2_3_6
+Paspels_cell_2_3_5
+Paspels_cell_2_1_0
+Paspels_cell_2_3_0
+Paspels_cell_2_4_0
+Paspels_cell_2_5_0|context:Paspels_cell_2_3_6:Paspels_title
+Paspels_section_3|Paspels_cell_2_3_5:Paspels_title
+Paspels_section_3|Paspels_cell_2_1_0:Paspels_title
+Paspels_section_3|Paspels_cell_2_3_0:Paspels_title
+Paspels_section_3|Paspels_cell_2_4_0:Paspels_title
+Paspels_section_3|Paspels_cell_2_5_0:Paspels_title
+Paspels_section_3",Numerical Reasoning
+10282,"In 1959, former Chilean boxer Alfredo Cornejo Cuevas (born June 6, 1933) won th egold meadl in the welterweight division at the Pan AmericanG ames (held in Chicago, United States, from August 27 to September 7) in Chicago, United States, and the world amateur welterweight title in Mexico City",SUPPORTS,"Alfredo Cornejo_sentence_2
+Boxing at the 1959 Pan American Games_sentence_0
+Alfredo Cornejo_sentence_3|context:Alfredo Cornejo_sentence_2:Alfredo Cornejo_title|Boxing at the 1959 Pan American Games_sentence_0:Boxing at the 1959 Pan American Games_title|Alfredo Cornejo_sentence_3:Alfredo Cornejo_title",Multi-hop Reasoning
+56586,"Polje ob Sotli with a ppoulation of 57 people, covers point thirty six square miles in Podctertek, am unicipality since 1995  covering 23.4 square miles with a total population of 3,323 people",SUPPORTS,"Polje ob Sotli_cell_0_9_1
+Polje ob Sotli_cell_0_6_1
+Polje ob Sotli_cell_0_4_1
+Municipality of Podčetrtek_cell_0_5_1
+Municipality of Podčetrtek_cell_0_7_1
+Municipality of Podčetrtek_header_cell_0_0_0|context:Polje ob Sotli_cell_0_9_1:Polje ob Sotli_title
+Polje ob Sotli_header_cell_0_9_0
+Polje ob Sotli_header_cell_0_8_0|Polje ob Sotli_cell_0_6_1:Polje ob Sotli_title
+Polje ob Sotli_header_cell_0_6_0
+Polje ob Sotli_header_cell_0_5_0|Polje ob Sotli_cell_0_4_1:Polje ob Sotli_title
+Polje ob Sotli_header_cell_0_4_0
+Polje ob Sotli_header_cell_0_0_0|Municipality of Podčetrtek_cell_0_5_1:Municipality of Podčetrtek_title
+Municipality of Podčetrtek_header_cell_0_5_0
+Municipality of Podčetrtek_header_cell_0_4_0|Municipality of Podčetrtek_cell_0_7_1:Municipality of Podčetrtek_title
+Municipality of Podčetrtek_header_cell_0_7_0
+Municipality of Podčetrtek_header_cell_0_6_0|Municipality of Podčetrtek_header_cell_0_0_0:Municipality of Podčetrtek_title",Multi-hop Reasoning
+27959,"Adducto rhiatus is associated with nine structures ,seven of which enter adn leave through hiatus",REFUTES,"Adductor hiatus_sentence_8|context:Adductor hiatus_sentence_8:Adductor hiatus_title
+Adductor hiatus_section_0",Other
+78957,Karyn Kupcinet directed the 1693s erise Going My Way,REFUTES,"Karyn Kupcinet_cell_1_10_0
+Karyn Kupcinet_cell_1_10_1
+Karyn Kupcinet_cell_1_10_2
+Karyn Kupcinet_sentence_0|context:Karyn Kupcinet_cell_1_10_0:Karyn Kupcinet_title
+Karyn Kupcinet_section_9
+Karyn Kupcinet_header_cell_1_0_0|Karyn Kupcinet_cell_1_10_1:Karyn Kupcinet_title
+Karyn Kupcinet_section_9
+Karyn Kupcinet_header_cell_1_0_1|Karyn Kupcinet_cell_1_10_2:Karyn Kupcinet_title
+Karyn Kupcinet_section_9
+Karyn Kupcinet_header_cell_1_0_2|Karyn Kupcinet_sentence_0:Karyn Kupcinet_title",Other
+46323,"List of tallest buildnigs in the Waterloo Regional Municipality  (in Southern Ontario,a  primary region of the province of Otnario) has over ten buildings, one of which is Charlie West",SUPPORTS,"List of tallest buildings in the Waterloo Regional Municipality_sentence_0
+Southern Ontario_sentence_0
+List of tallest buildings in the Waterloo Regional Municipality_cell_1_6_0
+List of tallest buildings in the Waterloo Regional Municipality_cell_0_1_1
+List of tallest buildings in the Waterloo Regional Municipality_cell_0_2_1
+List of tallest buildings in the Waterloo Regional Municipality_cell_0_3_1
+List of tallest buildings in the Waterloo Regional Municipality_cell_0_4_1
+List of tallest buildings in the Waterloo Regional Municipality_cell_0_5_1
+List of tallest buildings in the Waterloo Regional Municipality_cell_0_6_1
+List of tallest buildings in the Waterloo Regional Municipality_cell_0_7_1
+List of tallest buildings in the Waterloo Regional Municipality_cell_0_8_1
+List of tallest buildings in the Waterloo Regional Municipality_cell_0_9_1
+List of tallest buildings in the Waterloo Regional Municipality_cell_0_10_1
+List of tallest buildings in the Waterloo Regional Municipality_cell_0_11_1
+List of tallest buildings in the Waterloo Regional Municipality_cell_0_12_1
+List of tallest buildings in the Waterloo Regional Municipality_cell_0_13_1
+List of tallest buildings in the Waterloo Regional Municipality_cell_0_14_1
+List of tallest buildings in the Waterloo Regional Municipality_cell_0_15_1|context:List of tallest buildings in the Waterloo Regional Municipality_sentence_0:List of tallest buildings in the Waterloo Regional Municipality_title|Southern Ontario_sentence_0:Southern Ontario_title|List of tallest buildings in the Waterloo Regional Municipality_cell_1_6_0:List of tallest buildings in the Waterloo Regional Municipality_title
+List of tallest buildings in the Waterloo Regional Municipality_section_1
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_1_0_0|List of tallest buildings in the Waterloo Regional Municipality_cell_0_1_1:List of tallest buildings in the Waterloo Regional Municipality_title
+List of tallest buildings in the Waterloo Regional Municipality_section_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_1_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_0_1|List of tallest buildings in the Waterloo Regional Municipality_cell_0_2_1:List of tallest buildings in the Waterloo Regional Municipality_title
+List of tallest buildings in the Waterloo Regional Municipality_section_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_2_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_0_1|List of tallest buildings in the Waterloo Regional Municipality_cell_0_3_1:List of tallest buildings in the Waterloo Regional Municipality_title
+List of tallest buildings in the Waterloo Regional Municipality_section_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_3_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_0_1|List of tallest buildings in the Waterloo Regional Municipality_cell_0_4_1:List of tallest buildings in the Waterloo Regional Municipality_title
+List of tallest buildings in the Waterloo Regional Municipality_section_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_4_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_0_1|List of tallest buildings in the Waterloo Regional Municipality_cell_0_5_1:List of tallest buildings in the Waterloo Regional Municipality_title
+List of tallest buildings in the Waterloo Regional Municipality_section_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_5_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_0_1|List of tallest buildings in the Waterloo Regional Municipality_cell_0_6_1:List of tallest buildings in the Waterloo Regional Municipality_title
+List of tallest buildings in the Waterloo Regional Municipality_section_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_6_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_0_1|List of tallest buildings in the Waterloo Regional Municipality_cell_0_7_1:List of tallest buildings in the Waterloo Regional Municipality_title
+List of tallest buildings in the Waterloo Regional Municipality_section_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_7_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_0_1|List of tallest buildings in the Waterloo Regional Municipality_cell_0_8_1:List of tallest buildings in the Waterloo Regional Municipality_title
+List of tallest buildings in the Waterloo Regional Municipality_section_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_8_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_0_1|List of tallest buildings in the Waterloo Regional Municipality_cell_0_9_1:List of tallest buildings in the Waterloo Regional Municipality_title
+List of tallest buildings in the Waterloo Regional Municipality_section_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_9_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_0_1|List of tallest buildings in the Waterloo Regional Municipality_cell_0_10_1:List of tallest buildings in the Waterloo Regional Municipality_title
+List of tallest buildings in the Waterloo Regional Municipality_section_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_10_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_0_1|List of tallest buildings in the Waterloo Regional Municipality_cell_0_11_1:List of tallest buildings in the Waterloo Regional Municipality_title
+List of tallest buildings in the Waterloo Regional Municipality_section_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_11_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_0_1|List of tallest buildings in the Waterloo Regional Municipality_cell_0_12_1:List of tallest buildings in the Waterloo Regional Municipality_title
+List of tallest buildings in the Waterloo Regional Municipality_section_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_12_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_0_1|List of tallest buildings in the Waterloo Regional Municipality_cell_0_13_1:List of tallest buildings in the Waterloo Regional Municipality_title
+List of tallest buildings in the Waterloo Regional Municipality_section_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_13_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_0_1|List of tallest buildings in the Waterloo Regional Municipality_cell_0_14_1:List of tallest buildings in the Waterloo Regional Municipality_title
+List of tallest buildings in the Waterloo Regional Municipality_section_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_14_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_0_1|List of tallest buildings in the Waterloo Regional Municipality_cell_0_15_1:List of tallest buildings in the Waterloo Regional Municipality_title
+List of tallest buildings in the Waterloo Regional Municipality_section_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_15_0
+List of tallest buildings in the Waterloo Regional Municipality_header_cell_0_0_1",Numerical Reasoning
+8792,"The 1991 Philadelphia Eagels season had Rich Kotite (born October 13, 1942) as the head coahc, and Vteerans Stadium as its home field",SUPPORTS,"1991 Philadelphia Eagles season_cell_0_2_1
+1991 Philadelphia Eagles season_cell_0_3_1
+Rich Kotite_sentence_0|context:1991 Philadelphia Eagles season_cell_0_2_1:1991 Philadelphia Eagles season_title
+1991 Philadelphia Eagles season_header_cell_0_2_0
+1991 Philadelphia Eagles season_header_cell_0_0_0|1991 Philadelphia Eagles season_cell_0_3_1:1991 Philadelphia Eagles season_title
+1991 Philadelphia Eagles season_header_cell_0_3_0
+1991 Philadelphia Eagles season_header_cell_0_0_0|Rich Kotite_sentence_0:Rich Kotite_title
+1991 Philadelphia Eagles season_sentence_6
+Veterans Stadium_sentence_7
+Rich Kotite_sentence_0|context:1991 Philadelphia Eagles season_sentence_6:1991 Philadelphia Eagles season_title
+1991 Philadelphia Eagles season_section_0
+1991 Philadelphia Eagles season_section_1|Veterans Stadium_sentence_7:Veterans Stadium_title|Rich Kotite_sentence_0:Rich Kotite_title",Multi-hop Reasoning
+65838,The Chornicon terrae Prussiae is based no local monastery annals containing ethnographic adta regarding the Old Prussians,SUPPORTS,"Chronicon terrae Prussiae_sentence_8
+Chronicon terrae Prussiae_sentence_10|context:Chronicon terrae Prussiae_sentence_8:Chronicon terrae Prussiae_title|Chronicon terrae Prussiae_sentence_10:Chronicon terrae Prussiae_title",Other
+57632,"Markus Eibegger, born on Ocotber 16,1 984, is an Austrian rider ofr Felbermayr‚ÄìSimplon Wels since 2016",SUPPORTS,"Markus Eibegger_table_caption_0
+Markus Eibegger_cell_0_1_1
+Markus Eibegger_cell_0_2_1
+Markus Eibegger_cell_0_4_1
+Markus Eibegger_cell_0_6_1
+Markus Eibegger_cell_0_13_1|context:Markus Eibegger_table_caption_0:Markus Eibegger_title|Markus Eibegger_cell_0_1_1:Markus Eibegger_title
+Markus Eibegger_header_cell_0_1_0
+Markus Eibegger_header_cell_0_0_0|Markus Eibegger_cell_0_2_1:Markus Eibegger_title
+Markus Eibegger_header_cell_0_2_0
+Markus Eibegger_header_cell_0_0_0|Markus Eibegger_cell_0_4_1:Markus Eibegger_title
+Markus Eibegger_header_cell_0_4_0
+Markus Eibegger_header_cell_0_3_0|Markus Eibegger_cell_0_6_1:Markus Eibegger_title
+Markus Eibegger_header_cell_0_6_0
+Markus Eibegger_header_cell_0_3_0|Markus Eibegger_cell_0_13_1:Markus Eibegger_title
+Markus Eibegger_header_cell_0_13_0
+Markus Eibegger_header_cell_0_7_0",Other
+2533,"Duringt he 201-314 UEFA which was founded in Basel, Atletico Madrid was runner up, Valencia was a semi-finalist and Fiorentin awas eliminated in round of 16",REFUTES,"2013–14 UEFA Champions League_cell_20_1_0
+2013–14 UEFA Champions League_cell_20_1_2
+2013–14 UEFA Champions League_cell_20_2_0
+2013–14 UEFA Champions League_cell_20_2_2|context:2013–14 UEFA Champions League_cell_20_1_0:2013–14 UEFA Champions League_title
+2013–14 UEFA Champions League_section_19
+2013–14 UEFA Champions League_section_23
+2013–14 UEFA Champions League_header_cell_20_0_0|2013–14 UEFA Champions League_cell_20_1_2:2013–14 UEFA Champions League_title
+2013–14 UEFA Champions League_section_19
+2013–14 UEFA Champions League_section_23
+2013–14 UEFA Champions League_header_cell_20_0_2|2013–14 UEFA Champions League_cell_20_2_0:2013–14 UEFA Champions League_title
+2013–14 UEFA Champions League_section_19
+2013–14 UEFA Champions League_section_23
+2013–14 UEFA Champions League_header_cell_20_0_0|2013–14 UEFA Champions League_cell_20_2_2:2013–14 UEFA Champions League_title
+2013–14 UEFA Champions League_section_19
+2013–14 UEFA Champions League_section_23
+2013–14 UEFA Champions League_header_cell_20_0_2",Other
+14467,"The Footwork FA12, whcih was intended to start the season, finally debuted at the San Marino Grand Prix,  a oFrmula One motor race held at Imola on 28 April 1991",SUPPORTS,"Footwork FA12_sentence_3
+Footwork FA12_sentence_4
+1991 San Marino Grand Prix_sentence_0|context:Footwork FA12_sentence_3:Footwork FA12_title|Footwork FA12_sentence_4:Footwork FA12_title|1991 San Marino Grand Prix_sentence_0:1991 San Marino Grand Prix_title",Multi-hop Reasoning
+20730,"Ocean Mushure had four international goals during the 0217 COSAFA Cup wherein three of which are held in Moruleng Stadium, South Africa while on ewas held in Royal Bafokeng Stadiu,m Phokeng, South Africa",SUPPORTS,"2017 COSAFA Cup_item_7_16
+Ocean Mushure_header_cell_1_5_0
+Ocean Mushure_header_cell_1_5_3
+Ocean Mushure_cell_2_1_0
+Ocean Mushure_cell_2_1_2
+Ocean Mushure_cell_2_2_0
+Ocean Mushure_cell_2_2_2
+Ocean Mushure_cell_2_3_0
+Ocean Mushure_cell_2_1_6
+Ocean Mushure_cell_2_2_6
+Ocean Mushure_cell_2_4_0
+Ocean Mushure_cell_2_4_2
+Ocean Mushure_cell_2_4_6|context:2017 COSAFA Cup_item_7_16:2017 COSAFA Cup_title
+2017 COSAFA Cup_section_14|Ocean Mushure_header_cell_1_5_0:Ocean Mushure_title
+Ocean Mushure_section_3
+Ocean Mushure_section_4|Ocean Mushure_header_cell_1_5_3:Ocean Mushure_title
+Ocean Mushure_section_3
+Ocean Mushure_section_4|Ocean Mushure_cell_2_1_0:Ocean Mushure_title
+Ocean Mushure_section_3
+Ocean Mushure_section_5
+Ocean Mushure_header_cell_2_0_0|Ocean Mushure_cell_2_1_2:Ocean Mushure_title
+Ocean Mushure_section_3
+Ocean Mushure_section_5
+Ocean Mushure_header_cell_2_0_2|Ocean Mushure_cell_2_2_0:Ocean Mushure_title
+Ocean Mushure_section_3
+Ocean Mushure_section_5
+Ocean Mushure_header_cell_2_0_0|Ocean Mushure_cell_2_2_2:Ocean Mushure_title
+Ocean Mushure_section_3
+Ocean Mushure_section_5
+Ocean Mushure_header_cell_2_0_2|Ocean Mushure_cell_2_3_0:Ocean Mushure_title
+Ocean Mushure_section_3
+Ocean Mushure_section_5
+Ocean Mushure_header_cell_2_0_0|Ocean Mushure_cell_2_1_6:Ocean Mushure_title
+Ocean Mushure_section_3
+Ocean Mushure_section_5
+Ocean Mushure_header_cell_2_0_6|Ocean Mushure_cell_2_2_6:Ocean Mushure_title
+Ocean Mushure_section_3
+Ocean Mushure_section_5
+Ocean Mushure_header_cell_2_0_6|Ocean Mushure_cell_2_4_0:Ocean Mushure_title
+Ocean Mushure_section_3
+Ocean Mushure_section_5
+Ocean Mushure_header_cell_2_0_0|Ocean Mushure_cell_2_4_2:Ocean Mushure_title
+Ocean Mushure_section_3
+Ocean Mushure_section_5
+Ocean Mushure_header_cell_2_0_2|Ocean Mushure_cell_2_4_6:Ocean Mushure_title
+Ocean Mushure_section_3
+Ocean Mushure_section_5
+Ocean Mushure_header_cell_2_0_6",Other
+82412,Aage Emil Brix was a doctor and former U.S. soccer forward who played as ana mateur with theL os Angeles Athletic Club's soccert eam,SUPPORTS,"Aage Brix_table_caption_0
+Aage Brix_cell_0_1_1
+Aage Brix_cell_0_6_1
+Aage Brix_sentence_3|context:Aage Brix_table_caption_0:Aage Brix_title|Aage Brix_cell_0_1_1:Aage Brix_title
+Aage Brix_header_cell_0_1_0
+Aage Brix_header_cell_0_0_0|Aage Brix_cell_0_6_1:Aage Brix_title
+Aage Brix_header_cell_0_6_0
+Aage Brix_header_cell_0_0_0|Aage Brix_sentence_3:Aage Brix_title",Other
+89389,"Bangkok Insurance, established on 15 April 1947 as Asia Insurance Co., Ltd. under the maangement led by Chin Sophonpanich, was located no Anuwong Roda, Samphanthawong District, in Bangkok",SUPPORTS,"Bangkok Insurance_sentence_3
+Bangkok Insurance_sentence_4|context:Bangkok Insurance_sentence_3:Bangkok Insurance_title
+Bangkok Insurance_section_0|Bangkok Insurance_sentence_4:Bangkok Insurance_title
+Bangkok Insurance_section_0",Other
+78212,"Togoville, a town and canton in sotuhern Togo, is a replubic in the Maritime Region",SUPPORTS,"Togoville_sentence_0
+Togoville_cell_0_2_1
+Togoville_cell_0_4_1|context:Togoville_sentence_0:Togoville_title|Togoville_cell_0_2_1:Togoville_title
+Togoville_header_cell_0_2_0
+Togoville_header_cell_0_0_0|Togoville_cell_0_4_1:Togoville_title
+Togoville_header_cell_0_4_0
+Togoville_header_cell_0_3_0",Combining Tables and Text
+19950,"NETV Cwas teh name given to a planned royalty-free video codec, that accidentally provided a royalty-free alternative to indsutry standards such as H.264/AVC and HEVC",REFUTES,NETVC_sentence_3|context:NETVC_sentence_3:NETVC_title,Other
+35298,Retired Albanian football player Adrina Barbullushi nevre played for Egaleoo r Ionikos,REFUTES,"Adrian Barbullushi_sentence_1
+Adrian Barbullushi_cell_0_7_1
+Adrian Barbullushi_sentence_0|context:Adrian Barbullushi_sentence_1:Adrian Barbullushi_title
+Adrian Barbullushi_section_0|Adrian Barbullushi_cell_0_7_1:Adrian Barbullushi_title
+Adrian Barbullushi_header_cell_0_7_0
+Adrian Barbullushi_header_cell_0_4_0|Adrian Barbullushi_sentence_0:Adrian Barbullushi_title
+Adrian Barbullushi_sentence_0
+Adrian Barbullushi_cell_0_7_1
+Adrian Barbullushi_cell_0_8_1|context:Adrian Barbullushi_sentence_0:Adrian Barbullushi_title|Adrian Barbullushi_cell_0_7_1:Adrian Barbullushi_title
+Adrian Barbullushi_header_cell_0_7_0
+Adrian Barbullushi_header_cell_0_4_0|Adrian Barbullushi_cell_0_8_1:Adrian Barbullushi_title
+Adrian Barbullushi_header_cell_0_8_0
+Adrian Barbullushi_header_cell_0_4_0",Combining Tables and Text
+29075,"Alib Koldashi club statistics in Kuk√´si B and Kuk√´si, got the career totla apps of 54 and gaols of 26",REFUTES,"Albi Koldashi_sentence_0
+Albi Koldashi_cell_0_11_1
+Albi Koldashi_cell_0_11_2
+Albi Koldashi_cell_0_11_3
+Albi Koldashi_cell_0_12_1
+Albi Koldashi_cell_0_12_2
+Albi Koldashi_cell_0_12_3|context:Albi Koldashi_sentence_0:Albi Koldashi_title|Albi Koldashi_cell_0_11_1:Albi Koldashi_title
+Albi Koldashi_header_cell_0_11_0
+Albi Koldashi_header_cell_0_9_0|Albi Koldashi_cell_0_11_2:Albi Koldashi_title
+Albi Koldashi_header_cell_0_11_0
+Albi Koldashi_header_cell_0_9_0|Albi Koldashi_cell_0_11_3:Albi Koldashi_title
+Albi Koldashi_header_cell_0_11_0
+Albi Koldashi_header_cell_0_9_0|Albi Koldashi_cell_0_12_1:Albi Koldashi_title
+Albi Koldashi_header_cell_0_12_0
+Albi Koldashi_header_cell_0_9_0|Albi Koldashi_cell_0_12_2:Albi Koldashi_title
+Albi Koldashi_header_cell_0_12_0
+Albi Koldashi_header_cell_0_9_0|Albi Koldashi_cell_0_12_3:Albi Koldashi_title
+Albi Koldashi_header_cell_0_12_0
+Albi Koldashi_header_cell_0_9_0",Combining Tables and Text
+11142,"A spart of their schedule, the Temple Owls football team plyaed at Miami on November 5, 1994, losing 21‚Äì38, and played at Syracuse on cOtober 22, losing 42‚Äì49",REFUTES,"1994 Temple Owls football team_cell_1_9_0
+1994 Temple Owls football team_cell_1_9_2|context:1994 Temple Owls football team_cell_1_9_0:1994 Temple Owls football team_title
+1994 Temple Owls football team_section_0
+1994 Temple Owls football team_header_cell_1_0_0|1994 Temple Owls football team_cell_1_9_2:1994 Temple Owls football team_title
+1994 Temple Owls football team_section_0
+1994 Temple Owls football team_header_cell_1_0_2",Other
+47005,"Leon Haslam racedi n the British Superbike Championship four years in a row, from 2005-2008, placings econd in both 0206 and 2008",SUPPORTS,"Leon Haslam_cell_0_11_1
+Leon Haslam_cell_0_12_1
+Leon Haslam_cell_0_13_1
+Leon Haslam_cell_0_15_0
+Leon Haslam_header_cell_0_12_10
+Leon Haslam_header_cell_0_15_9
+Leon Haslam_header_cell_0_0_10
+Leon Haslam_header_cell_0_0_0|context:Leon Haslam_cell_0_11_1:Leon Haslam_title
+Leon Haslam_section_6
+Leon Haslam_section_7
+Leon Haslam_header_cell_0_11_0
+Leon Haslam_header_cell_0_0_1|Leon Haslam_cell_0_12_1:Leon Haslam_title
+Leon Haslam_section_6
+Leon Haslam_section_7
+Leon Haslam_header_cell_0_12_0
+Leon Haslam_header_cell_0_0_1|Leon Haslam_cell_0_13_1:Leon Haslam_title
+Leon Haslam_section_6
+Leon Haslam_section_7
+Leon Haslam_header_cell_0_13_0
+Leon Haslam_header_cell_0_0_1|Leon Haslam_cell_0_15_0:Leon Haslam_title
+Leon Haslam_section_6
+Leon Haslam_section_7
+Leon Haslam_header_cell_0_14_0
+Leon Haslam_header_cell_0_0_1|Leon Haslam_header_cell_0_12_10:Leon Haslam_title
+Leon Haslam_section_6
+Leon Haslam_section_7|Leon Haslam_header_cell_0_15_9:Leon Haslam_title
+Leon Haslam_section_6
+Leon Haslam_section_7|Leon Haslam_header_cell_0_0_10:Leon Haslam_title
+Leon Haslam_section_6
+Leon Haslam_section_7|Leon Haslam_header_cell_0_0_0:Leon Haslam_title
+Leon Haslam_section_6
+Leon Haslam_section_7",Other
+20248,"SkyHigh Mount Dandenong (formerly Mount Dandeonng Observatory) is a restaurant located on top of MountD andenong, iVctoria, Australia",SUPPORTS,"SkyHigh Mount Dandenong_sentence_0
+SkyHigh Mount Dandenong_sentence_6|context:SkyHigh Mount Dandenong_sentence_0:SkyHigh Mount Dandenong_title|SkyHigh Mount Dandenong_sentence_6:SkyHigh Mount Dandenong_title
+SkyHigh Mount Dandenong_section_1",Multi-hop Reasoning
+37952,The Wa tMoh aMontery was built in 1970 within Cambodia,SUPPORTS,"Wat Moha Montrey_cell_0_6_1
+Wat Moha Montrey_cell_0_4_1|context:Wat Moha Montrey_cell_0_6_1:Wat Moha Montrey_title
+Wat Moha Montrey_header_cell_0_6_0
+Wat Moha Montrey_header_cell_0_5_0|Wat Moha Montrey_cell_0_4_1:Wat Moha Montrey_title
+Wat Moha Montrey_header_cell_0_4_0
+Wat Moha Montrey_header_cell_0_3_0",Other
+76545,"The Ironmongre Row public baths, located at Ironmonger Row, in the St Luke's district (near Old Street, Islington, London) were later upgraded to a TurkishB ath or also known as hammam, a type of steam baht or a place of public bathing associated with the Islamic world",SUPPORTS,"Ironmonger Row Baths_sentence_0
+Ironmonger Row Baths_sentence_1
+Turkish bath_sentence_1|context:Ironmonger Row Baths_sentence_0:Ironmonger Row Baths_title|Ironmonger Row Baths_sentence_1:Ironmonger Row Baths_title|Turkish bath_sentence_1:Turkish bath_title",Multi-hop Reasoning
+21589,Black 74 released2 2 albums over their 25 year music career,REFUTES,"Black 47_cell_1_1_1
+Black 47_cell_1_2_1
+Black 47_cell_1_3_1
+Black 47_cell_1_4_1
+Black 47_cell_1_5_1
+Black 47_cell_1_6_1
+Black 47_cell_1_7_1
+Black 47_cell_1_8_1
+Black 47_cell_1_9_1
+Black 47_cell_1_10_1
+Black 47_cell_1_11_1
+Black 47_cell_1_12_1
+Black 47_cell_1_13_1
+Black 47_cell_1_14_1
+Black 47_cell_1_15_1
+Black 47_cell_1_16_1
+Black 47_cell_1_17_1
+Black 47_cell_1_18_1
+Black 47_cell_1_19_1|context:Black 47_cell_1_1_1:Black 47_title
+Black 47_section_10
+Black 47_header_cell_1_0_1|Black 47_cell_1_2_1:Black 47_title
+Black 47_section_10
+Black 47_header_cell_1_0_1|Black 47_cell_1_3_1:Black 47_title
+Black 47_section_10
+Black 47_header_cell_1_0_1|Black 47_cell_1_4_1:Black 47_title
+Black 47_section_10
+Black 47_header_cell_1_0_1|Black 47_cell_1_5_1:Black 47_title
+Black 47_section_10
+Black 47_header_cell_1_0_1|Black 47_cell_1_6_1:Black 47_title
+Black 47_section_10
+Black 47_header_cell_1_0_1|Black 47_cell_1_7_1:Black 47_title
+Black 47_section_10
+Black 47_header_cell_1_0_1|Black 47_cell_1_8_1:Black 47_title
+Black 47_section_10
+Black 47_header_cell_1_0_1|Black 47_cell_1_9_1:Black 47_title
+Black 47_section_10
+Black 47_header_cell_1_0_1|Black 47_cell_1_10_1:Black 47_title
+Black 47_section_10
+Black 47_header_cell_1_0_1|Black 47_cell_1_11_1:Black 47_title
+Black 47_section_10
+Black 47_header_cell_1_0_1|Black 47_cell_1_12_1:Black 47_title
+Black 47_section_10
+Black 47_header_cell_1_0_1|Black 47_cell_1_13_1:Black 47_title
+Black 47_section_10
+Black 47_header_cell_1_0_1|Black 47_cell_1_14_1:Black 47_title
+Black 47_section_10
+Black 47_header_cell_1_0_1|Black 47_cell_1_15_1:Black 47_title
+Black 47_section_10
+Black 47_header_cell_1_0_1|Black 47_cell_1_16_1:Black 47_title
+Black 47_section_10
+Black 47_header_cell_1_0_1|Black 47_cell_1_17_1:Black 47_title
+Black 47_section_10
+Black 47_header_cell_1_0_1|Black 47_cell_1_18_1:Black 47_title
+Black 47_section_10
+Black 47_header_cell_1_0_1|Black 47_cell_1_19_1:Black 47_title
+Black 47_section_10
+Black 47_header_cell_1_0_1",Numerical Reasoning
+12881,"Ifor Bowen Lloyd was educated at Winchester (an independent boadring school for boys in the British public school tradition) and Exeter College, Oxford where he was a member oft he Librayr Committee of the Oxford Union Society, as well as, received a BA in Modern History in 1924",SUPPORTS,"Ifor Bowen Lloyd_sentence_3
+Winchester College_sentence_0
+Ifor Bowen Lloyd_sentence_4|context:Ifor Bowen Lloyd_sentence_3:Ifor Bowen Lloyd_title
+Ifor Bowen Lloyd_section_0|Winchester College_sentence_0:Winchester College_title|Ifor Bowen Lloyd_sentence_4:Ifor Bowen Lloyd_title
+Ifor Bowen Lloyd_section_0",Multi-hop Reasoning
+61909,"Jenna Carroll is commonly imsremembered as having playde with two clubs between 2006 and 2010, one of which was Blackburn Rovers Ladies",REFUTES,"Jenna Carroll_cell_1_2_0
+Jenna Carroll_cell_1_2_1
+Jenna Carroll_cell_1_3_0
+Jenna Carroll_cell_1_4_0
+Jenna Carroll_cell_1_5_0|context:Jenna Carroll_cell_1_2_0:Jenna Carroll_title
+Jenna Carroll_section_2
+Jenna Carroll_header_cell_1_0_0|Jenna Carroll_cell_1_2_1:Jenna Carroll_title
+Jenna Carroll_section_2
+Jenna Carroll_header_cell_1_0_1|Jenna Carroll_cell_1_3_0:Jenna Carroll_title
+Jenna Carroll_section_2
+Jenna Carroll_header_cell_1_0_1|Jenna Carroll_cell_1_4_0:Jenna Carroll_title
+Jenna Carroll_section_2
+Jenna Carroll_header_cell_1_0_1|Jenna Carroll_cell_1_5_0:Jenna Carroll_title
+Jenna Carroll_section_2
+Jenna Carroll_header_cell_1_0_1",Other
+82749,"The 2015 VCU Rams baseball team was their third season in the Atlantic 10 Conference, (a collegiate athletic conference whose schools comptee in teh National Collegiate Athletic Association's Division I)  and won their first-ever Atlantic Ten Conferenec Baseball Tournament",SUPPORTS,"2015 VCU Rams baseball team_sentence_0
+Atlantic 10 Conference_sentence_0
+2015 VCU Rams baseball team_sentence_2|context:2015 VCU Rams baseball team_sentence_0:2015 VCU Rams baseball team_title|Atlantic 10 Conference_sentence_0:Atlantic 10 Conference_title|2015 VCU Rams baseball team_sentence_2:2015 VCU Rams baseball team_title",Multi-hop Reasoning
+32116,"Afagh, Darolelm, and Nahid were first published ni1 909 durign the Qajar dynasty in the province of Fars and the city of Shiraz",SUPPORTS,"Darolelm_sentence_0
+Afagh (newspaper)_sentence_0
+List of magazines and newspapers of Fars_cell_0_6_0
+List of magazines and newspapers of Fars_cell_0_6_1
+List of magazines and newspapers of Fars_cell_0_6_2
+Shiraz_sentence_4
+List of magazines and newspapers of Fars_cell_0_6_3
+List of magazines and newspapers of Fars_cell_0_7_0
+List of magazines and newspapers of Fars_cell_0_7_1
+List of magazines and newspapers of Fars_cell_0_7_2
+List of magazines and newspapers of Fars_cell_0_7_3
+List of magazines and newspapers of Fars_cell_0_8_0
+List of magazines and newspapers of Fars_cell_0_8_1
+List of magazines and newspapers of Fars_cell_0_8_2
+List of magazines and newspapers of Fars_cell_0_8_3|context:Darolelm_sentence_0:Darolelm_title|Afagh (newspaper)_sentence_0:Afagh (newspaper)_title|List of magazines and newspapers of Fars_cell_0_6_0:List of magazines and newspapers of Fars_title
+List of magazines and newspapers of Fars_header_cell_0_0_0|List of magazines and newspapers of Fars_cell_0_6_1:List of magazines and newspapers of Fars_title
+List of magazines and newspapers of Fars_header_cell_0_0_1|List of magazines and newspapers of Fars_cell_0_6_2:List of magazines and newspapers of Fars_title
+List of magazines and newspapers of Fars_header_cell_0_0_2|Shiraz_sentence_4:Shiraz_title|List of magazines and newspapers of Fars_cell_0_6_3:List of magazines and newspapers of Fars_title
+List of magazines and newspapers of Fars_header_cell_0_0_3|List of magazines and newspapers of Fars_cell_0_7_0:List of magazines and newspapers of Fars_title
+List of magazines and newspapers of Fars_header_cell_0_0_0|List of magazines and newspapers of Fars_cell_0_7_1:List of magazines and newspapers of Fars_title
+List of magazines and newspapers of Fars_header_cell_0_0_1|List of magazines and newspapers of Fars_cell_0_7_2:List of magazines and newspapers of Fars_title
+List of magazines and newspapers of Fars_header_cell_0_0_2|List of magazines and newspapers of Fars_cell_0_7_3:List of magazines and newspapers of Fars_title
+List of magazines and newspapers of Fars_header_cell_0_0_3|List of magazines and newspapers of Fars_cell_0_8_0:List of magazines and newspapers of Fars_title
+List of magazines and newspapers of Fars_header_cell_0_0_0|List of magazines and newspapers of Fars_cell_0_8_1:List of magazines and newspapers of Fars_title
+List of magazines and newspapers of Fars_header_cell_0_0_1|List of magazines and newspapers of Fars_cell_0_8_2:List of magazines and newspapers of Fars_title
+List of magazines and newspapers of Fars_header_cell_0_0_2|List of magazines and newspapers of Fars_cell_0_8_3:List of magazines and newspapers of Fars_title
+List of magazines and newspapers of Fars_header_cell_0_0_3",Combining Tables and Text
+69174,"Irena ≈†kroƒái directed the 2004 film, Happinses",SUPPORTS,"Irena Škorić_cell_1_4_3
+Irena Škorić_cell_1_4_0
+Irena Škorić_cell_1_4_1|context:Irena Škorić_cell_1_4_3:Irena Škorić_title
+Irena Škorić_section_0
+Irena Škorić_header_cell_1_1_0
+Irena Škorić_header_cell_1_0_3|Irena Škorić_cell_1_4_0:Irena Škorić_title
+Irena Škorić_section_0
+Irena Škorić_header_cell_1_0_0|Irena Škorić_cell_1_4_1:Irena Škorić_title
+Irena Škorić_section_0
+Irena Škorić_header_cell_1_0_1",Other
+25247,In the2 001 Stanley Cup playoffs Eastern Conference Semifinasl Devils' Elias scored and Maple Leafs' left Devils player Scott Nediermayer hurt,SUPPORTS,"2001 Stanley Cup playoffs_sentence_45
+2001 Stanley Cup playoffs_sentence_46|context:2001 Stanley Cup playoffs_sentence_45:2001 Stanley Cup playoffs_title
+2001 Stanley Cup playoffs_section_15
+2001 Stanley Cup playoffs_section_16
+2001 Stanley Cup playoffs_section_17|2001 Stanley Cup playoffs_sentence_46:2001 Stanley Cup playoffs_title
+2001 Stanley Cup playoffs_section_15
+2001 Stanley Cup playoffs_section_16
+2001 Stanley Cup playoffs_section_17",Other
+82956,NGC 4777 is a (R)SABs()a located oustid ethe Virgo constellation,REFUTES,"NGC 4777_cell_0_2_1|context:NGC 4777_cell_0_2_1:NGC 4777_title
+NGC 4777_header_cell_0_2_0
+NGC 4777_header_cell_0_1_0
+NGC 4777_header_cell_0_0_0",Other
+50536,"Adam Foote, representing the Unitde Sattes, was in the 2002 Salt Lake City Winte rOlympics and the World Cup in Canada in 2004 and 1996",REFUTES,"Adam Foote_cell_1_4_1|context:Adam Foote_cell_1_4_1:Adam Foote_title
+Adam Foote_section_4
+Adam Foote_header_cell_1_3_0
+Adam Foote_header_cell_1_2_0
+Adam Foote_header_cell_1_1_0
+Adam Foote_header_cell_1_0_0",Other
+88319,Lucas H√∂le rplayed fo rfive clubs since 2031 until present,REFUTES,"Lucas Höler_cell_0_15_1
+Lucas Höler_cell_0_16_1
+Lucas Höler_cell_0_17_1
+Lucas Höler_cell_0_18_1|context:Lucas Höler_cell_0_15_1:Lucas Höler_title
+Lucas Höler_header_cell_0_15_0
+Lucas Höler_header_cell_0_13_0|Lucas Höler_cell_0_16_1:Lucas Höler_title
+Lucas Höler_header_cell_0_16_0
+Lucas Höler_header_cell_0_13_0|Lucas Höler_cell_0_17_1:Lucas Höler_title
+Lucas Höler_header_cell_0_17_0
+Lucas Höler_header_cell_0_13_0|Lucas Höler_cell_0_18_1:Lucas Höler_title
+Lucas Höler_header_cell_0_18_0
+Lucas Höler_header_cell_0_13_0",Other
+31488,Amagase Dam is 73 m (240 ft) tall with a surface area o f.19 km and withholsd a reservoir,SUPPORTS,"Amagase Dam_sentence_0
+Amagase Dam_sentence_6
+Amagase Dam_sentence_7
+Amagase Dam_sentence_9
+Amagase Dam_cell_0_1_1
+Amagase Dam_cell_0_8_1
+Amagase Dam_cell_0_10_1
+Amagase Dam_cell_0_20_1|context:Amagase Dam_sentence_0:Amagase Dam_title|Amagase Dam_sentence_6:Amagase Dam_title
+Amagase Dam_section_0|Amagase Dam_sentence_7:Amagase Dam_title
+Amagase Dam_section_0|Amagase Dam_sentence_9:Amagase Dam_title
+Amagase Dam_section_0|Amagase Dam_cell_0_1_1:Amagase Dam_title
+Amagase Dam_header_cell_0_1_0
+Amagase Dam_header_cell_0_0_0|Amagase Dam_cell_0_8_1:Amagase Dam_title
+Amagase Dam_header_cell_0_8_0
+Amagase Dam_header_cell_0_7_0|Amagase Dam_cell_0_10_1:Amagase Dam_title
+Amagase Dam_header_cell_0_10_0
+Amagase Dam_header_cell_0_7_0|Amagase Dam_cell_0_20_1:Amagase Dam_title
+Amagase Dam_header_cell_0_20_0
+Amagase Dam_header_cell_0_16_0",Combining Tables and Text
+44467,"Draogn Island is the island referred to in chapter eight of the historical novel Master and Commander and also in the fictional owrld of Narnia in the book The Lion, The Wtich, and The Wardrobe",REFUTES,Dragon Island_sentence_7|context:Dragon Island_sentence_7:Dragon Island_title,Other

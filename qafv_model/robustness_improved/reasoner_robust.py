@@ -2,7 +2,7 @@ import backoff  # for exponential backoff
 import openai
 import random
 
-from gpt3_template import GPT3_Template
+from gpt3_template_robust import GPT3_Template
 
 @backoff.on_exception(backoff.expo, openai.error.RateLimitError)
 def completions_with_backoff(**kwargs):

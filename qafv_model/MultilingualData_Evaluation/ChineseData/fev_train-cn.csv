@@ -1,0 +1,777 @@
+﻿id,claim,label,supporting_facts,challenge
+45987,克里斯·韦茨有五部纪录片，包括《灰姑娘》(2002)、《美国派》(2007)、《新月》(2012) 和《关于一个男孩》(2013)。,REFUTES,Chris Weitz_sentence_1|context:Chris Weitz_sentence_1:Chris Weitz_title,Other
+70642,巴约讷军事海运码头由美国控制，于 1939 年至 1942 年建造，并于 1945 年至 1999 年投入使用。,REFUTES,"Military Ocean Terminal at Bayonne_cell_0_5_1|context:Military Ocean Terminal at Bayonne_cell_0_5_1:Military Ocean Terminal at Bayonne_title
+Military Ocean Terminal at Bayonne_header_cell_0_5_0
+Military Ocean Terminal at Bayonne_header_cell_0_3_0",Numerical Reasoning
+60552,2014-2015年，米利亚姆·盖里布（Miliam Guerrib，出生于1985年11月5日）曾效力于韦尔斯足球俱乐部（FC Wels），这是一家奥地利足球俱乐部，成立于2003年，由传统俱乐部SK Eintracht Wels和FC Union Wels合并而成。,SUPPORTS,"Miliam Guerrib_cell_0_2_1
+Miliam Guerrib_cell_0_26_1
+FC Wels_sentence_0|context:Miliam Guerrib_cell_0_2_1:Miliam Guerrib_title
+Miliam Guerrib_header_cell_0_2_0
+Miliam Guerrib_header_cell_0_0_0|Miliam Guerrib_cell_0_26_1:Miliam Guerrib_title
+Miliam Guerrib_header_cell_0_26_0
+Miliam Guerrib_header_cell_0_11_0|FC Wels_sentence_0:FC Wels_title",Multi-hop Reasoning
+35366,Teldenia helena 是 Wilkinson 于 1967 年首次描述的一种飞蛾。,SUPPORTS,"Teldenia helena_sentence_0
+Teldenia helena_sentence_1|context:Teldenia helena_sentence_0:Teldenia helena_title|Teldenia helena_sentence_1:Teldenia helena_title",Other
+47794,波加诺沃修道院建于 2000 年，供奉圣约翰·保罗二世。,REFUTES,"Poganovo Monastery_cell_0_4_1|context:Poganovo Monastery_cell_0_4_1:Poganovo Monastery_title
+Poganovo Monastery_header_cell_0_4_0
+Poganovo Monastery_header_cell_0_0_0",Other
+53910,约翰·威南斯 (John Winans) 是 1873 年 11 月 4 日大选的候选人，但以 741 票落败。,REFUTES,"John Winans_cell_1_2_2
+John Winans_cell_1_2_3
+John Winans_table_caption_1
+John Winans_cell_1_3_2
+John Winans_cell_1_3_3|context:John Winans_cell_1_2_2:John Winans_title
+John Winans_section_5
+John Winans_section_6
+John Winans_header_cell_1_0_2|John Winans_cell_1_2_3:John Winans_title
+John Winans_section_5
+John Winans_section_6
+John Winans_header_cell_1_0_3|John Winans_table_caption_1:John Winans_title
+John Winans_section_5
+John Winans_section_6|John Winans_cell_1_3_2:John Winans_title
+John Winans_section_5
+John Winans_section_6
+John Winans_header_cell_1_0_2|John Winans_cell_1_3_3:John Winans_title
+John Winans_section_5
+John Winans_section_6
+John Winans_header_cell_1_0_3",Other
+87016,乔迪·亨德森 (Geordie Henderson) 出生于弗福尔 (Forfar)，在福福竞技 (绰号 The Loons 或 Sky Blues) 开始了他的职业生涯，随后短暂效力于邓迪 (Dundee)，之后于 1818 年 11 月加盟流浪者队 (Rangers)，连续四个赛季成为流浪者队的最佳射手。,REFUTES,"Geordie Henderson_sentence_3|context:Geordie Henderson_sentence_3:Geordie Henderson_title
+Geordie Henderson_section_0
+Geordie Henderson_cell_0_11_1|context:Geordie Henderson_cell_0_11_1:Geordie Henderson_title
+Geordie Henderson_header_cell_0_11_0
+Geordie Henderson_header_cell_0_7_0",Other
+85829,弗朗茨·卡夫卡奖的获得者之一是加拿大诗人和小说家玛格丽特·阿特伍德，她写了《使女的故事》。,SUPPORTS,"Franz Kafka Prize_cell_1_4_2
+Margaret Atwood_sentence_0
+The Handmaid's Tale_table_caption_0
+The Handmaid's Tale_cell_0_0_1|context:Franz Kafka Prize_cell_1_4_2:Franz Kafka Prize_title
+Franz Kafka Prize_section_1
+Franz Kafka Prize_header_cell_1_0_2|Margaret Atwood_sentence_0:Margaret Atwood_title|The Handmaid's Tale_table_caption_0:The Handmaid's Tale_title|The Handmaid's Tale_cell_0_0_1:The Handmaid's Tale_title
+The Handmaid's Tale_header_cell_0_0_0",Multi-hop Reasoning
+77115,Rasbora naggsi 是属于鲤形目鲤科的一个属。,REFUTES,Rasbora naggsi_sentence_2|context:Rasbora naggsi_sentence_2:Rasbora naggsi_title,Other
+72596,2008 年 1 月至 6 月间运行的新音乐下载播客取代了 2006 年 8 月至 2007 年 6 月间运行的 40 个节目的 Slashmusic 播客；汤姆·雷文斯克罗夫特 (Tom Ravenscroft) 是这两个节目的美国电台主持人。,SUPPORTS,"New Music Download_sentence_0
+New Music Download_sentence_1
+Slashmusic_sentence_0|context:New Music Download_sentence_0:New Music Download_title|New Music Download_sentence_1:New Music Download_title|Slashmusic_sentence_0:Slashmusic_title",Multi-hop Reasoning
+44709,卡迪尔博士在监狱里进行绝食，当他能得到他的要求时就停止绝食。随后，在奥地利外交部特使、记者古德伦·哈雷尔的努力下，他于2006年1月25日被释放。,SUPPORTS,"Kamal Qadir_sentence_6
+Kamal Qadir_sentence_7
+Felix Ermacora Human Rights Award_sentence_2
+Felix Ermacora Human Rights Award_item_0_2|context:Kamal Qadir_sentence_6:Kamal Qadir_title|Kamal Qadir_sentence_7:Kamal Qadir_title|Felix Ermacora Human Rights Award_sentence_2:Felix Ermacora Human Rights Award_title|Felix Ermacora Human Rights Award_item_0_2:Felix Ermacora Human Rights Award_title
+Felix Ermacora Human Rights Award_section_0",Entity Disambiguation
+21153,喀麦隆在其至少 250 种语言中列出了 3 种绝对濒危语言、13 种严重濒危语言和 16 种极度濒危语言。,NOT ENOUGH INFO,Languages of Cameroon_sentence_0|context:Languages of Cameroon_sentence_0:Languages of Cameroon_title,Other
+90771,美国纯种赛马“骄傲号角”（Proud Clarion，1964年1月19日－1981年12月17日）以2:00 3/5结束比赛，是1967年肯塔基德比赛马中跑得最快的马。,SUPPORTS,"Proud Clarion_sentence_0
+1967 Kentucky Derby_cell_1_1_0
+1967 Kentucky Derby_cell_1_1_2
+1967 Kentucky Derby_cell_1_1_6|context:Proud Clarion_sentence_0:Proud Clarion_title|1967 Kentucky Derby_cell_1_1_0:1967 Kentucky Derby_title
+1967 Kentucky Derby_section_0
+1967 Kentucky Derby_header_cell_1_0_0|1967 Kentucky Derby_cell_1_1_2:1967 Kentucky Derby_title
+1967 Kentucky Derby_section_0
+1967 Kentucky Derby_header_cell_1_0_2|1967 Kentucky Derby_cell_1_1_6:1967 Kentucky Derby_title
+1967 Kentucky Derby_section_0
+1967 Kentucky Derby_header_cell_1_0_6",Multi-hop Reasoning
+65716,营口东或营口东位于中国辽宁省锦州市，由中国铁路总公司运营，有京哈线、盘锦营口线、哈大线。,REFUTES,"Yingkou East railway station_cell_0_1_1
+Yingkou East railway station_cell_0_2_1|context:Yingkou East railway station_cell_0_1_1:Yingkou East railway station_title
+Yingkou East railway station_header_cell_0_1_0
+Yingkou East railway station_header_cell_0_0_0|Yingkou East railway station_cell_0_2_1:Yingkou East railway station_title
+Yingkou East railway station_header_cell_0_2_0
+Yingkou East railway station_header_cell_0_0_0",Other
+65026,长岭山脉位于加拿大纽芬兰和拉布拉多省的阿巴拉契亚山脉（北美东部山脉系统）中，海拔814米。,SUPPORTS,"Long Range Mountains_cell_0_6_1
+Long Range Mountains_cell_0_5_1
+Long Range Mountains_cell_0_8_1
+Long Range Mountains_cell_0_3_1
+Appalachian Mountains_sentence_2|context:Long Range Mountains_cell_0_6_1:Long Range Mountains_title
+Long Range Mountains_header_cell_0_6_0
+Long Range Mountains_header_cell_0_4_0|Long Range Mountains_cell_0_5_1:Long Range Mountains_title
+Long Range Mountains_header_cell_0_5_0
+Long Range Mountains_header_cell_0_4_0|Long Range Mountains_cell_0_8_1:Long Range Mountains_title
+Long Range Mountains_header_cell_0_8_0
+Long Range Mountains_header_cell_0_4_0|Long Range Mountains_cell_0_3_1:Long Range Mountains_title
+Long Range Mountains_header_cell_0_3_0
+Long Range Mountains_header_cell_0_1_0
+Long Range Mountains_header_cell_0_0_0|Appalachian Mountains_sentence_2:Appalachian Mountains_title",Multi-hop Reasoning
+31475,波美于 1862 年出生于新西兰达尼丁市，原名“弗里德里希·波美”，1884 年取得律师资格，并于 1891 年获得法学学士学位。,SUPPORTS,"Frederick Baume_sentence_1
+Frederick Baume_sentence_4|context:Frederick Baume_sentence_1:Frederick Baume_title
+Frederick Baume_section_0
+Frederick Baume_section_1|Frederick Baume_sentence_4:Frederick Baume_title
+Frederick Baume_section_0
+Frederick Baume_section_1",Other
+37541,在 Bhadrak 区内，Prafulla Samal 构成了 1974 年创建的 Bhandaripokhari、Bonth 街区。,SUPPORTS,"Bhadrak district_cell_1_1_4
+Bhadrak district_cell_1_1_1
+Bhadrak district_cell_1_1_3
+Bhandaripokhari_cell_0_5_1|context:Bhadrak district_cell_1_1_4:Bhadrak district_title
+Bhadrak district_section_11
+Bhadrak district_section_12
+Bhadrak district_header_cell_1_1_0
+Bhadrak district_header_cell_1_0_4|Bhadrak district_cell_1_1_1:Bhadrak district_title
+Bhadrak district_section_11
+Bhadrak district_section_12
+Bhadrak district_header_cell_1_1_0
+Bhadrak district_header_cell_1_0_1|Bhadrak district_cell_1_1_3:Bhadrak district_title
+Bhadrak district_section_11
+Bhadrak district_section_12
+Bhadrak district_header_cell_1_1_0
+Bhadrak district_header_cell_1_0_3|Bhandaripokhari_cell_0_5_1:Bhandaripokhari_title
+Bhandaripokhari_header_cell_0_5_0
+Bhandaripokhari_header_cell_0_4_0",Multi-hop Reasoning
+31193,奥斯汀的《小白鹭》迷失在周围的环境中；无论它对鸟类学家有多大的吸引力，这个盘子从来不缺乏气氛。,SUPPORTS,"Winifred Austen_sentence_11
+Winifred Austen_sentence_12|context:Winifred Austen_sentence_11:Winifred Austen_title
+Winifred Austen_section_1|Winifred Austen_sentence_12:Winifred Austen_title
+Winifred Austen_section_1",Other
+16391,Yeo Vale 最初由 at Yeo 家族所有，他们的姓氏取自该庄园，但最终通过婚姻传给了 Giffard 家族，它位于 Alwington 小村庄，目前有 400 名人口。,REFUTES,"Alwington_sentence_0
+Alwington_sentence_2
+Alwington_sentence_1|context:Alwington_sentence_0:Alwington_title|Alwington_sentence_2:Alwington_title|Alwington_sentence_1:Alwington_title",Multi-hop Reasoning
+80385,2003 年堪萨斯州野猫队的瑞恩·马修斯 (Ryan Mathews) 的冲球平均值高于他的队友埃尔·罗伯森 (Ell Roberson)。,NOT ENOUGH INFO,"2003 Kansas State Wildcats football team_cell_2_1_0
+2003 Kansas State Wildcats football team_cell_2_1_6
+2003 Kansas State Wildcats football team_cell_2_2_0
+2003 Kansas State Wildcats football team_cell_2_2_6
+2003 Kansas State Wildcats football team_cell_2_3_0
+2003 Kansas State Wildcats football team_cell_2_3_6|context:2003 Kansas State Wildcats football team_cell_2_1_0:2003 Kansas State Wildcats football team_title
+2003 Kansas State Wildcats football team_section_19
+2003 Kansas State Wildcats football team_section_22
+2003 Kansas State Wildcats football team_section_23
+2003 Kansas State Wildcats football team_header_cell_2_0_0|2003 Kansas State Wildcats football team_cell_2_1_6:2003 Kansas State Wildcats football team_title
+2003 Kansas State Wildcats football team_section_19
+2003 Kansas State Wildcats football team_section_22
+2003 Kansas State Wildcats football team_section_23
+2003 Kansas State Wildcats football team_header_cell_2_0_6|2003 Kansas State Wildcats football team_cell_2_2_0:2003 Kansas State Wildcats football team_title
+2003 Kansas State Wildcats football team_section_19
+2003 Kansas State Wildcats football team_section_22
+2003 Kansas State Wildcats football team_section_23
+2003 Kansas State Wildcats football team_header_cell_2_0_0|2003 Kansas State Wildcats football team_cell_2_2_6:2003 Kansas State Wildcats football team_title
+2003 Kansas State Wildcats football team_section_19
+2003 Kansas State Wildcats football team_section_22
+2003 Kansas State Wildcats football team_section_23
+2003 Kansas State Wildcats football team_header_cell_2_0_6|2003 Kansas State Wildcats football team_cell_2_3_0:2003 Kansas State Wildcats football team_title
+2003 Kansas State Wildcats football team_section_19
+2003 Kansas State Wildcats football team_section_22
+2003 Kansas State Wildcats football team_section_23
+2003 Kansas State Wildcats football team_header_cell_2_0_0|2003 Kansas State Wildcats football team_cell_2_3_6:2003 Kansas State Wildcats football team_title
+2003 Kansas State Wildcats football team_section_19
+2003 Kansas State Wildcats football team_section_22
+2003 Kansas State Wildcats football team_section_23
+2003 Kansas State Wildcats football team_header_cell_2_0_6",Other
+65163,威廉·弗里克出生于1974年12月30日，是马里兰州众议院任命过程中的黑马候选人。,SUPPORTS,"William Frick_sentence_0
+William Frick_sentence_7
+William Frick_sentence_6|context:William Frick_sentence_0:William Frick_title|William Frick_sentence_7:William Frick_title
+William Frick_section_1|William Frick_sentence_6:William Frick_title
+William Frick_section_1",Multi-hop Reasoning
+8416,尤妮斯·奥尔森 (Eunice Olsen) 是 2002-2003 季《财富之轮》的联合主持人，此后多次出现在电视和电影中，包括目前在 Womentalk TV 担任主持人。,SUPPORTS,"Eunice Olsen_header_cell_1_0_0
+Eunice Olsen_cell_1_1_1
+Eunice Olsen_cell_1_1_2
+Eunice Olsen_cell_1_19_0
+Eunice Olsen_cell_1_19_1
+Eunice Olsen_cell_1_19_2
+Eunice Olsen_cell_1_7_2
+Eunice Olsen_cell_1_7_3
+Eunice Olsen_cell_1_8_2
+Eunice Olsen_cell_1_8_3
+Eunice Olsen_cell_1_9_2
+Eunice Olsen_cell_1_9_3
+Eunice Olsen_cell_1_10_2
+Eunice Olsen_cell_1_10_3
+Eunice Olsen_cell_1_11_2
+Eunice Olsen_cell_1_11_3
+Eunice Olsen_cell_1_12_2
+Eunice Olsen_cell_1_12_3
+Eunice Olsen_cell_1_13_2
+Eunice Olsen_cell_1_13_3
+Eunice Olsen_cell_1_14_2
+Eunice Olsen_cell_1_14_3
+Eunice Olsen_cell_1_15_2
+Eunice Olsen_cell_1_15_3
+Eunice Olsen_cell_1_16_2
+Eunice Olsen_cell_1_16_3|context:Eunice Olsen_header_cell_1_0_0:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5|Eunice Olsen_cell_1_1_1:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_1_0
+Eunice Olsen_header_cell_1_0_1|Eunice Olsen_cell_1_1_2:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_1_0
+Eunice Olsen_header_cell_1_0_2|Eunice Olsen_cell_1_19_0:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_16_0
+Eunice Olsen_header_cell_1_15_0
+Eunice Olsen_header_cell_1_14_0
+Eunice Olsen_header_cell_1_13_0
+Eunice Olsen_header_cell_1_12_0
+Eunice Olsen_header_cell_1_11_0
+Eunice Olsen_header_cell_1_10_0
+Eunice Olsen_header_cell_1_9_0
+Eunice Olsen_header_cell_1_8_0
+Eunice Olsen_header_cell_1_7_0|Eunice Olsen_cell_1_19_1:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_0_1|Eunice Olsen_cell_1_19_2:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_0_2|Eunice Olsen_cell_1_7_2:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_7_0
+Eunice Olsen_header_cell_1_0_2|Eunice Olsen_cell_1_7_3:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_7_0
+Eunice Olsen_header_cell_1_0_3|Eunice Olsen_cell_1_8_2:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_8_0
+Eunice Olsen_header_cell_1_0_2|Eunice Olsen_cell_1_8_3:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_8_0
+Eunice Olsen_header_cell_1_0_3|Eunice Olsen_cell_1_9_2:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_9_0
+Eunice Olsen_header_cell_1_0_2|Eunice Olsen_cell_1_9_3:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_9_0
+Eunice Olsen_header_cell_1_0_3|Eunice Olsen_cell_1_10_2:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_10_0
+Eunice Olsen_header_cell_1_0_2|Eunice Olsen_cell_1_10_3:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_10_0
+Eunice Olsen_header_cell_1_0_3|Eunice Olsen_cell_1_11_2:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_11_0
+Eunice Olsen_header_cell_1_0_2|Eunice Olsen_cell_1_11_3:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_11_0
+Eunice Olsen_header_cell_1_0_3|Eunice Olsen_cell_1_12_2:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_12_0
+Eunice Olsen_header_cell_1_0_2|Eunice Olsen_cell_1_12_3:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_12_0
+Eunice Olsen_header_cell_1_0_3|Eunice Olsen_cell_1_13_2:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_13_0
+Eunice Olsen_header_cell_1_0_2|Eunice Olsen_cell_1_13_3:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_13_0
+Eunice Olsen_header_cell_1_0_3|Eunice Olsen_cell_1_14_2:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_14_0
+Eunice Olsen_header_cell_1_0_2|Eunice Olsen_cell_1_14_3:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_14_0
+Eunice Olsen_header_cell_1_0_3|Eunice Olsen_cell_1_15_2:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_15_0
+Eunice Olsen_header_cell_1_0_2|Eunice Olsen_cell_1_15_3:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_15_0
+Eunice Olsen_header_cell_1_0_3|Eunice Olsen_cell_1_16_2:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_16_0
+Eunice Olsen_header_cell_1_0_2|Eunice Olsen_cell_1_16_3:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_16_0
+Eunice Olsen_header_cell_1_0_3
+Eunice Olsen_header_cell_1_0_0
+Eunice Olsen_cell_1_1_1
+Eunice Olsen_cell_1_1_2
+Eunice Olsen_sentence_53
+Eunice Olsen_sentence_54
+Eunice Olsen_sentence_56
+Eunice Olsen_sentence_61
+Eunice Olsen_cell_1_19_0
+Eunice Olsen_cell_1_19_1
+Eunice Olsen_cell_1_19_2|context:Eunice Olsen_header_cell_1_0_0:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5|Eunice Olsen_cell_1_1_1:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_1_0
+Eunice Olsen_header_cell_1_0_1|Eunice Olsen_cell_1_1_2:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_1_0
+Eunice Olsen_header_cell_1_0_2|Eunice Olsen_sentence_53:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5|Eunice Olsen_sentence_54:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5|Eunice Olsen_sentence_56:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5|Eunice Olsen_sentence_61:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5|Eunice Olsen_cell_1_19_0:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_16_0
+Eunice Olsen_header_cell_1_15_0
+Eunice Olsen_header_cell_1_14_0
+Eunice Olsen_header_cell_1_13_0
+Eunice Olsen_header_cell_1_12_0
+Eunice Olsen_header_cell_1_11_0
+Eunice Olsen_header_cell_1_10_0
+Eunice Olsen_header_cell_1_9_0
+Eunice Olsen_header_cell_1_8_0
+Eunice Olsen_header_cell_1_7_0|Eunice Olsen_cell_1_19_1:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_0_1|Eunice Olsen_cell_1_19_2:Eunice Olsen_title
+Eunice Olsen_section_0
+Eunice Olsen_section_5
+Eunice Olsen_header_cell_1_0_2",Combining Tables and Text
+9794,发现号海山（南大西洋的一系列海山，其中包括发现号海山）的一些沉积物似乎是冰筏碎片，并且使用其他证据推测海山在更新世晚期，发现海山下方的地壳大约有 6700 万年的历史，因此属于白垩纪晚期。,SUPPORTS,"Discovery Seamounts_sentence_0
+Discovery Seamounts_sentence_14
+Discovery Seamounts_sentence_16|context:Discovery Seamounts_sentence_0:Discovery Seamounts_title|Discovery Seamounts_sentence_14:Discovery Seamounts_title
+Discovery Seamounts_section_1|Discovery Seamounts_sentence_16:Discovery Seamounts_title
+Discovery Seamounts_section_1",Other
+49180,"奥尔特加尔拥有三个自治区，2018 年总人口为 12,238 人，其中一个名为塞尔迪多 (Cerdido)。",REFUTES,"Ortegal_cell_1_1_0
+Ortegal_cell_1_2_0
+Ortegal_cell_1_3_0
+Ortegal_cell_1_4_0|context:Ortegal_cell_1_1_0:Ortegal_title
+Ortegal_section_0
+Ortegal_header_cell_1_0_0|Ortegal_cell_1_2_0:Ortegal_title
+Ortegal_section_0
+Ortegal_header_cell_1_0_0|Ortegal_cell_1_3_0:Ortegal_title
+Ortegal_section_0
+Ortegal_header_cell_1_0_0|Ortegal_cell_1_4_0:Ortegal_title
+Ortegal_section_0
+Ortegal_header_cell_1_0_0",Numerical Reasoning
+1845,Stefan Kahil Lessard（1974 年 6 月 4 日出生于加利福尼亚州阿纳海姆郊外）完成了高中三年级，并于 1991 年夏天通过了 GED 考试，并被弗吉尼亚联邦大学爵士乐研究项目录取。,REFUTES,"Stefan Lessard_sentence_1|context:Stefan Lessard_sentence_1:Stefan Lessard_title
+Stefan Lessard_section_0",Other
+22232,阿乔姆斯·鲁德涅夫斯 (Artjoms Rudņevs) 在 12 年的职业生涯中为 7 家具乐部效力。,SUPPORTS,"Artjoms Rudņevs_cell_1_21_0
+Artjoms Rudņevs_cell_1_20_0
+Artjoms Rudņevs_cell_1_19_0
+Artjoms Rudņevs_cell_1_14_0
+Artjoms Rudņevs_cell_1_11_0
+Artjoms Rudņevs_cell_1_7_0
+Artjoms Rudņevs_cell_1_2_0
+Artjoms Rudņevs_cell_1_2_1
+Artjoms Rudņevs_cell_1_3_0
+Artjoms Rudņevs_cell_1_4_0
+Artjoms Rudņevs_cell_1_5_0
+Artjoms Rudņevs_cell_1_7_1
+Artjoms Rudņevs_cell_1_8_0
+Artjoms Rudņevs_cell_1_9_0
+Artjoms Rudņevs_cell_1_11_1
+Artjoms Rudņevs_cell_1_12_0
+Artjoms Rudņevs_cell_1_14_1
+Artjoms Rudņevs_cell_1_15_0
+Artjoms Rudņevs_cell_1_16_0
+Artjoms Rudņevs_cell_1_17_0
+Artjoms Rudņevs_cell_1_19_1
+Artjoms Rudņevs_cell_1_20_1
+Artjoms Rudņevs_cell_1_21_1
+Artjoms Rudņevs_cell_1_22_0|context:Artjoms Rudņevs_cell_1_21_0:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_0_0|Artjoms Rudņevs_cell_1_20_0:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_0_0|Artjoms Rudņevs_cell_1_19_0:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_0_0|Artjoms Rudņevs_cell_1_14_0:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_0_0|Artjoms Rudņevs_cell_1_11_0:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_0_0|Artjoms Rudņevs_cell_1_7_0:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_0_0|Artjoms Rudņevs_cell_1_2_0:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_0_0|Artjoms Rudņevs_cell_1_2_1:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_0_1|Artjoms Rudņevs_cell_1_3_0:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_0_1|Artjoms Rudņevs_cell_1_4_0:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_0_1|Artjoms Rudņevs_cell_1_5_0:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_0_1|Artjoms Rudņevs_cell_1_7_1:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_6_0|Artjoms Rudņevs_cell_1_8_0:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_6_0|Artjoms Rudņevs_cell_1_9_0:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_6_0|Artjoms Rudņevs_cell_1_11_1:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_10_0|Artjoms Rudņevs_cell_1_12_0:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_10_0|Artjoms Rudņevs_cell_1_14_1:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_13_0|Artjoms Rudņevs_cell_1_15_0:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_13_0|Artjoms Rudņevs_cell_1_16_0:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_13_0|Artjoms Rudņevs_cell_1_17_0:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_13_0|Artjoms Rudņevs_cell_1_19_1:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_18_0|Artjoms Rudņevs_cell_1_20_1:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_18_0|Artjoms Rudņevs_cell_1_21_1:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_18_0|Artjoms Rudņevs_cell_1_22_0:Artjoms Rudņevs_title
+Artjoms Rudņevs_section_9
+Artjoms Rudņevs_section_10
+Artjoms Rudņevs_header_cell_1_18_0
+Artjoms Rudņevs_cell_0_16_1
+Artjoms Rudņevs_cell_0_15_1
+Artjoms Rudņevs_cell_0_14_1
+Artjoms Rudņevs_cell_0_13_1
+Artjoms Rudņevs_cell_0_12_1
+Artjoms Rudņevs_cell_0_11_1
+Artjoms Rudņevs_cell_0_10_1|context:Artjoms Rudņevs_cell_0_16_1:Artjoms Rudņevs_title
+Artjoms Rudņevs_header_cell_0_16_0
+Artjoms Rudņevs_header_cell_0_8_0|Artjoms Rudņevs_cell_0_15_1:Artjoms Rudņevs_title
+Artjoms Rudņevs_header_cell_0_15_0
+Artjoms Rudņevs_header_cell_0_8_0|Artjoms Rudņevs_cell_0_14_1:Artjoms Rudņevs_title
+Artjoms Rudņevs_header_cell_0_14_0
+Artjoms Rudņevs_header_cell_0_8_0|Artjoms Rudņevs_cell_0_13_1:Artjoms Rudņevs_title
+Artjoms Rudņevs_header_cell_0_13_0
+Artjoms Rudņevs_header_cell_0_8_0|Artjoms Rudņevs_cell_0_12_1:Artjoms Rudņevs_title
+Artjoms Rudņevs_header_cell_0_12_0
+Artjoms Rudņevs_header_cell_0_8_0|Artjoms Rudņevs_cell_0_11_1:Artjoms Rudņevs_title
+Artjoms Rudņevs_header_cell_0_11_0
+Artjoms Rudņevs_header_cell_0_8_0|Artjoms Rudņevs_cell_0_10_1:Artjoms Rudņevs_title
+Artjoms Rudņevs_header_cell_0_10_0
+Artjoms Rudņevs_header_cell_0_8_0",Numerical Reasoning
+91511,1928苏马号于1938年9月21日被发现，因苏马海战而得名。,SUPPORTS,"1928 Summa_sentence_2
+1928 Summa_sentence_1|context:1928 Summa_sentence_2:1928 Summa_title|1928 Summa_sentence_1:1928 Summa_title",Other
+82881,迈克尔·麦卡弗蒂 (Michael McCafferty) 是 EDP 的总裁，在开业的前六个月里，该公司就实现了 50 万美元的利润。,REFUTES,"Michael McCafferty_sentence_17
+Michael McCafferty_sentence_20
+Michael McCafferty_sentence_21|context:Michael McCafferty_sentence_17:Michael McCafferty_title
+Michael McCafferty_section_1
+Michael McCafferty_section_2|Michael McCafferty_sentence_20:Michael McCafferty_title
+Michael McCafferty_section_1
+Michael McCafferty_section_2|Michael McCafferty_sentence_21:Michael McCafferty_title
+Michael McCafferty_section_1
+Michael McCafferty_section_2",Other
+15240,《EveryWhere Is SomeWhere》是 K.Flay 的第二张也是主要唱片公司的首张录音室专辑，获得 AllMusic 的积极评价，并获得 Metacritic 的 67 分（满分 100 分）。,SUPPORTS,"Every Where Is Some Where_sentence_0
+Every Where Is Some Where_cell_0_5_0
+Every Where Is Some Where_cell_0_5_1
+Every Where Is Some Where_cell_0_2_0
+Every Where Is Some Where_cell_0_2_1|context:Every Where Is Some Where_sentence_0:Every Where Is Some Where_title|Every Where Is Some Where_cell_0_5_0:Every Where Is Some Where_title
+Every Where Is Some Where_section_1
+Every Where Is Some Where_header_cell_0_4_0
+Every Where Is Some Where_header_cell_0_3_0|Every Where Is Some Where_cell_0_5_1:Every Where Is Some Where_title
+Every Where Is Some Where_section_1
+Every Where Is Some Where_header_cell_0_4_1
+Every Where Is Some Where_header_cell_0_3_0|Every Where Is Some Where_cell_0_2_0:Every Where Is Some Where_title
+Every Where Is Some Where_section_1
+Every Where Is Some Where_header_cell_0_1_0
+Every Where Is Some Where_header_cell_0_0_0|Every Where Is Some Where_cell_0_2_1:Every Where Is Some Where_title
+Every Where Is Some Where_section_1
+Every Where Is Some Where_header_cell_0_1_1
+Every Where Is Some Where_header_cell_0_0_0",Combining Tables and Text
+95515,温斯伯勒附近的国家历史街区资源建于大约 1883 年至大约 1945 年之间；包括安德森和里恩采石场、商业建筑以及与花岗岩采石和精加工作业相关的结构。,REFUTES,Rockton and Rion Railroad Historic District_sentence_3|context:Rockton and Rion Railroad Historic District_sentence_3:Rockton and Rion Railroad Historic District_title,Other
+14382,美国人彼得·加贝尔毕业于迪尔菲尔德学院，随后在哈佛大学获得学位。,REFUTES,"Peter Gabel_sentence_4|context:Peter Gabel_sentence_4:Peter Gabel_title
+Peter Gabel_section_0
+Peter Gabel_section_1",Other
+76331,乔什·拉菲尔斯（Josh Ruffels，出生于 1993 年 10 月 23 日）按俱乐部、赛季和比赛划分的出场次数和进球数包括考文垂城队和牛津联队，其中职业生涯总出场次数为 268 次，进球数为 14 个。,SUPPORTS,"Josh Ruffels_cell_1_2_0
+Josh Ruffels_cell_1_6_0
+Josh Ruffels_sentence_0
+Josh Ruffels_header_cell_1_14_0
+Josh Ruffels_header_cell_1_14_11
+Josh Ruffels_header_cell_1_14_12
+Josh Ruffels_header_cell_1_1_9
+Josh Ruffels_header_cell_1_1_10
+Josh Ruffels_header_cell_1_0_11
+Josh Ruffels_table_caption_1|context:Josh Ruffels_cell_1_2_0:Josh Ruffels_title
+Josh Ruffels_section_4
+Josh Ruffels_header_cell_1_0_0|Josh Ruffels_cell_1_6_0:Josh Ruffels_title
+Josh Ruffels_section_4
+Josh Ruffels_header_cell_1_0_0|Josh Ruffels_sentence_0:Josh Ruffels_title|Josh Ruffels_header_cell_1_14_0:Josh Ruffels_title
+Josh Ruffels_section_4|Josh Ruffels_header_cell_1_14_11:Josh Ruffels_title
+Josh Ruffels_section_4|Josh Ruffels_header_cell_1_14_12:Josh Ruffels_title
+Josh Ruffels_section_4|Josh Ruffels_header_cell_1_1_9:Josh Ruffels_title
+Josh Ruffels_section_4|Josh Ruffels_header_cell_1_1_10:Josh Ruffels_title
+Josh Ruffels_section_4|Josh Ruffels_header_cell_1_0_11:Josh Ruffels_title
+Josh Ruffels_section_4|Josh Ruffels_table_caption_1:Josh Ruffels_title
+Josh Ruffels_section_4",Combining Tables and Text
+44814,米拉·卡贾斯 (Mila Kajas) 在 1993-94 年冬季奥运会上获得第一名，并在 1990-91 年、1991-92 年、1992-93 年和 1995-96 年全国芬兰锦标赛上获得第一名,REFUTES,"Mila Kajas_cell_1_2_0
+Mila Kajas_cell_1_2_5|context:Mila Kajas_cell_1_2_0:Mila Kajas_title
+Mila Kajas_section_0
+Mila Kajas_header_cell_1_1_0
+Mila Kajas_header_cell_1_0_0|Mila Kajas_cell_1_2_5:Mila Kajas_title
+Mila Kajas_section_0
+Mila Kajas_header_cell_1_1_5
+Mila Kajas_header_cell_1_0_0",Other
+58548,尼尔吉里塔尔动物（尼尔吉里山特有的有蹄类动物）是动物王国牛科动物的一部分。,SUPPORTS,"Nilgiri tahr_sentence_0
+Nilgiri tahr_cell_0_7_0
+Nilgiri tahr_cell_0_7_1
+Nilgiri tahr_cell_0_3_0
+Nilgiri tahr_cell_0_3_1|context:Nilgiri tahr_sentence_0:Nilgiri tahr_title|Nilgiri tahr_cell_0_7_0:Nilgiri tahr_title
+Nilgiri tahr_header_cell_0_2_0
+Nilgiri tahr_header_cell_0_1_0
+Nilgiri tahr_header_cell_0_0_0|Nilgiri tahr_cell_0_7_1:Nilgiri tahr_title
+Nilgiri tahr_header_cell_0_2_0
+Nilgiri tahr_header_cell_0_1_0
+Nilgiri tahr_header_cell_0_0_0|Nilgiri tahr_cell_0_3_0:Nilgiri tahr_title
+Nilgiri tahr_header_cell_0_2_0
+Nilgiri tahr_header_cell_0_1_0
+Nilgiri tahr_header_cell_0_0_0|Nilgiri tahr_cell_0_3_1:Nilgiri tahr_title
+Nilgiri tahr_header_cell_0_2_0
+Nilgiri tahr_header_cell_0_1_0
+Nilgiri tahr_header_cell_0_0_0",Combining Tables and Text
+48550,托林位于中国札达县，海拔3660米，镇内有少量白杨树。,REFUTES,"Tholing_cell_0_7_1|context:Tholing_cell_0_7_1:Tholing_title
+Tholing_header_cell_0_7_0
+Tholing_header_cell_0_5_0",Other
+47721,艾伦·洛瑞一生只和他的至亲一起打比赛。,NOT ENOUGH INFO,"Alan Lowry_sentence_26
+Roosevelt Leaks_sentence_2
+Alan Lowry_sentence_62|context:Alan Lowry_sentence_26:Alan Lowry_title
+Alan Lowry_section_0|Roosevelt Leaks_sentence_2:Roosevelt Leaks_title
+Roosevelt Leaks_section_0|Alan Lowry_sentence_62:Alan Lowry_title
+Alan Lowry_section_4",Multi-hop Reasoning
+64576,《男人的季节》是一部由穆菲达·特拉特利 (Moufida Tlatli) 执导并联合编剧的电影，仅提供阿拉伯语版本。,REFUTES,"The Season of Men_cell_0_9_1|context:The Season of Men_cell_0_9_1:The Season of Men_title
+The Season of Men_header_cell_0_9_0
+The Season of Men_header_cell_0_0_0",Other
+8995,Giancarlo Zampieri（丹尼尔·赞皮耶里的父亲）于 2013 年购买了 BVM - Target Racing 雷诺方程式 3.5 系列分部，并更名为 Zeta Corse。,SUPPORTS,"Zeta Corse_sentence_1
+Zeta Corse_sentence_2|context:Zeta Corse_sentence_1:Zeta Corse_title
+Zeta Corse_section_0|Zeta Corse_sentence_2:Zeta Corse_title
+Zeta Corse_section_0",Other
+17659,WBGX 于 1955 年以 R&B 音乐格式播出，当五大湖广播电台 (Great Lakes Radio) 于 2003 年购买时，目前采用全福音格式，并在中间几年进行了一些临时音乐更改。,SUPPORTS,"WBGX_sentence_5
+WBGX_sentence_10
+WBGX_sentence_11
+WBGX_sentence_7|context:WBGX_sentence_5:WBGX_title
+WBGX_section_0|WBGX_sentence_10:WBGX_title
+WBGX_section_0|WBGX_sentence_11:WBGX_title
+WBGX_section_0|WBGX_sentence_7:WBGX_title
+WBGX_section_0",Other
+30964,WBCW（广播当代基督教格式的广播电台）频率为 89.7 MHz，归个人所有。,REFUTES,"WBCW_sentence_1
+WBCW_cell_0_2_1
+WBCW_cell_0_7_1|context:WBCW_sentence_1:WBCW_title|WBCW_cell_0_2_1:WBCW_title
+WBCW_header_cell_0_2_0|WBCW_cell_0_7_1:WBCW_title
+WBCW_header_cell_0_7_0
+WBCW_header_cell_0_6_0
+WBCW_sentence_2
+WBCW_sentence_1
+WBCW_cell_0_2_1|context:WBCW_sentence_2:WBCW_title|WBCW_sentence_1:WBCW_title|WBCW_cell_0_2_1:WBCW_title
+WBCW_header_cell_0_2_0",Combining Tables and Text
+51027,DisGeNET 是目前最大、最全面的人类基因疾病关联 (GDA) 存储库之一，它是一种开放获取资源，提供有关疾病基因的综合知识库，并可通过 Cytoscape 插件作为语义的链接数据使用。网络。,SUPPORTS,"DisGeNET_sentence_1
+DisGeNET_sentence_6
+DisGeNET_sentence_7|context:DisGeNET_sentence_1:DisGeNET_title|DisGeNET_sentence_6:DisGeNET_title
+DisGeNET_section_0|DisGeNET_sentence_7:DisGeNET_title
+DisGeNET_section_0",Multi-hop Reasoning
+33407,Bṛhaspati 有四个来源来测量每次恒星公转的估计时间。,SUPPORTS,"Bṛhaspati_cell_1_0_0
+Bṛhaspati_cell_1_1_0
+Bṛhaspati_cell_1_0_1
+Bṛhaspati_cell_1_1_1
+Bṛhaspati_cell_1_2_0
+Bṛhaspati_cell_1_2_1
+Bṛhaspati_cell_1_3_0
+Bṛhaspati_cell_1_3_1
+Bṛhaspati_cell_1_4_0
+Bṛhaspati_cell_1_4_1|context:Bṛhaspati_cell_1_0_0:Bṛhaspati_title
+Bṛhaspati_section_2|Bṛhaspati_cell_1_1_0:Bṛhaspati_title
+Bṛhaspati_section_2|Bṛhaspati_cell_1_0_1:Bṛhaspati_title
+Bṛhaspati_section_2|Bṛhaspati_cell_1_1_1:Bṛhaspati_title
+Bṛhaspati_section_2|Bṛhaspati_cell_1_2_0:Bṛhaspati_title
+Bṛhaspati_section_2|Bṛhaspati_cell_1_2_1:Bṛhaspati_title
+Bṛhaspati_section_2|Bṛhaspati_cell_1_3_0:Bṛhaspati_title
+Bṛhaspati_section_2|Bṛhaspati_cell_1_3_1:Bṛhaspati_title
+Bṛhaspati_section_2|Bṛhaspati_cell_1_4_0:Bṛhaspati_title
+Bṛhaspati_section_2|Bṛhaspati_cell_1_4_1:Bṛhaspati_title
+Bṛhaspati_section_2",Numerical Reasoning
+20996,Vespro della Beata Vergine（圣母晚祷）共有 15 个部分，其中有 7 个部分。,REFUTES,"Vespro della Beata Vergine_cell_2_1_0
+Vespro della Beata Vergine_cell_2_1_1
+Vespro della Beata Vergine_cell_2_2_0
+Vespro della Beata Vergine_cell_2_2_1
+Vespro della Beata Vergine_cell_2_3_0
+Vespro della Beata Vergine_cell_2_3_1
+Vespro della Beata Vergine_cell_2_4_0
+Vespro della Beata Vergine_cell_2_4_1
+Vespro della Beata Vergine_cell_2_5_0
+Vespro della Beata Vergine_cell_2_5_1
+Vespro della Beata Vergine_cell_2_6_0
+Vespro della Beata Vergine_cell_2_6_1
+Vespro della Beata Vergine_cell_2_7_0
+Vespro della Beata Vergine_cell_2_7_1
+Vespro della Beata Vergine_cell_2_8_0
+Vespro della Beata Vergine_cell_2_8_1
+Vespro della Beata Vergine_cell_2_9_0
+Vespro della Beata Vergine_cell_2_9_1
+Vespro della Beata Vergine_cell_2_10_0
+Vespro della Beata Vergine_cell_2_10_1
+Vespro della Beata Vergine_cell_2_11_0
+Vespro della Beata Vergine_cell_2_11_1
+Vespro della Beata Vergine_cell_2_12_0
+Vespro della Beata Vergine_cell_2_12_1
+Vespro della Beata Vergine_cell_2_13_0
+Vespro della Beata Vergine_cell_2_13_1|context:Vespro della Beata Vergine_cell_2_1_0:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_0|Vespro della Beata Vergine_cell_2_1_1:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_1|Vespro della Beata Vergine_cell_2_2_0:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_0|Vespro della Beata Vergine_cell_2_2_1:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_1|Vespro della Beata Vergine_cell_2_3_0:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_0|Vespro della Beata Vergine_cell_2_3_1:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_1|Vespro della Beata Vergine_cell_2_4_0:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_0|Vespro della Beata Vergine_cell_2_4_1:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_1|Vespro della Beata Vergine_cell_2_5_0:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_0|Vespro della Beata Vergine_cell_2_5_1:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_1|Vespro della Beata Vergine_cell_2_6_0:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_0|Vespro della Beata Vergine_cell_2_6_1:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_1|Vespro della Beata Vergine_cell_2_7_0:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_0|Vespro della Beata Vergine_cell_2_7_1:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_1|Vespro della Beata Vergine_cell_2_8_0:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_0|Vespro della Beata Vergine_cell_2_8_1:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_1|Vespro della Beata Vergine_cell_2_9_0:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_0|Vespro della Beata Vergine_cell_2_9_1:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_1|Vespro della Beata Vergine_cell_2_10_0:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_0|Vespro della Beata Vergine_cell_2_10_1:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_1|Vespro della Beata Vergine_cell_2_11_0:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_0|Vespro della Beata Vergine_cell_2_11_1:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_1|Vespro della Beata Vergine_cell_2_12_0:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_0|Vespro della Beata Vergine_cell_2_12_1:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_1|Vespro della Beata Vergine_cell_2_13_0:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_0|Vespro della Beata Vergine_cell_2_13_1:Vespro della Beata Vergine_title
+Vespro della Beata Vergine_section_6
+Vespro della Beata Vergine_section_7
+Vespro della Beata Vergine_header_cell_2_0_1",Other
+88530,汉弗莱·亨奇曼于1610年被任命为索尔兹伯里大教堂的教士，后来被免职，他还帮助未来的查理二世逃离该国。,REFUTES,"Humphrey Henchman_sentence_5|context:Humphrey Henchman_sentence_5:Humphrey Henchman_title
+Humphrey Henchman_section_1",Other
+61716,高地复临学校要求所有学生每年参加艺术史课程，内容涵盖圣经历史以及基督教和教派教义等主题。,REFUTES,"Highland Adventist School_sentence_4
+Highland Adventist School_sentence_5|context:Highland Adventist School_sentence_4:Highland Adventist School_title
+Highland Adventist School_section_1|Highland Adventist School_sentence_5:Highland Adventist School_title
+Highland Adventist School_section_1",Other
+90781,1796年黑山与奥斯曼帝国之间的洛帕特战役结果为平局。,SUPPORTS,"Battle of Lopate_sentence_0
+Battle of Lopate_cell_0_4_1|context:Battle of Lopate_sentence_0:Battle of Lopate_title|Battle of Lopate_cell_0_4_1:Battle of Lopate_title
+Battle of Lopate_header_cell_0_4_0
+Battle of Lopate_header_cell_0_0_0",Combining Tables and Text
+17960,克莱姆森老虎队 (Clemson Tigers) 橄榄球队在 1910 年击败的球队之一是南卡罗来纳州斗鸡队 (South Carolina Gamecocks)，该队在那场橄榄球赛事中的战绩为 4 胜 4 负。,SUPPORTS,"1910 Clemson Tigers football team_cell_1_6_0
+1910 Clemson Tigers football team_cell_1_6_1
+1910 Clemson Tigers football team_cell_1_6_3
+1910 South Carolina Gamecocks football team_sentence_1|context:1910 Clemson Tigers football team_cell_1_6_0:1910 Clemson Tigers football team_title
+1910 Clemson Tigers football team_section_0
+1910 Clemson Tigers football team_header_cell_1_0_0|1910 Clemson Tigers football team_cell_1_6_1:1910 Clemson Tigers football team_title
+1910 Clemson Tigers football team_section_0
+1910 Clemson Tigers football team_header_cell_1_0_1|1910 Clemson Tigers football team_cell_1_6_3:1910 Clemson Tigers football team_title
+1910 Clemson Tigers football team_section_0
+1910 Clemson Tigers football team_header_cell_1_0_3|1910 South Carolina Gamecocks football team_sentence_1:1910 South Carolina Gamecocks football team_title",Multi-hop Reasoning
+6398,奥古斯都路德教堂（宾夕法尼亚州特拉普西大街 717 号）地区于 1717 年由德国人定居，这是第一座教堂，造价 200 英镑，内部配件均采用当地材料制成,SUPPORTS,"Augustus Lutheran Church_sentence_0
+Augustus Lutheran Church_sentence_4
+Augustus Lutheran Church_sentence_5
+Augustus Lutheran Church_sentence_6|context:Augustus Lutheran Church_sentence_0:Augustus Lutheran Church_title|Augustus Lutheran Church_sentence_4:Augustus Lutheran Church_title
+Augustus Lutheran Church_section_0|Augustus Lutheran Church_sentence_5:Augustus Lutheran Church_title
+Augustus Lutheran Church_section_0|Augustus Lutheran Church_sentence_6:Augustus Lutheran Church_title
+Augustus Lutheran Church_section_0
+Augustus Lutheran Church_sentence_4
+Augustus Lutheran Church_sentence_5
+Augustus Lutheran Church_sentence_6
+Augustus Lutheran Church_cell_0_0_1|context:Augustus Lutheran Church_sentence_4:Augustus Lutheran Church_title
+Augustus Lutheran Church_section_0|Augustus Lutheran Church_sentence_5:Augustus Lutheran Church_title
+Augustus Lutheran Church_section_0|Augustus Lutheran Church_sentence_6:Augustus Lutheran Church_title
+Augustus Lutheran Church_section_0|Augustus Lutheran Church_cell_0_0_1:Augustus Lutheran Church_title
+Augustus Lutheran Church_header_cell_0_0_0",Combining Tables and Text
+44497,在《鸟女与追日的人》中，鸟女的父母想把她嫁出去，但她因为不想怀孕而逃跑了。,SUPPORTS,"Bird Girl and the Man Who Followed the Sun_sentence_17
+Bird Girl and the Man Who Followed the Sun_sentence_18|context:Bird Girl and the Man Who Followed the Sun_sentence_17:Bird Girl and the Man Who Followed the Sun_title
+Bird Girl and the Man Who Followed the Sun_section_0|Bird Girl and the Man Who Followed the Sun_sentence_18:Bird Girl and the Man Who Followed the Sun_title
+Bird Girl and the Man Who Followed the Sun_section_0",Other
+2586,Phoronid 是一种海洋蠕虫，包括在大西洋浅水中发现的 phoronis ovalis 和在加利福尼亚州发现的 phoronopsis californica 等物种。,SUPPORTS,"Phoronid_sentence_0
+Phoronis_sentence_2
+Phoronis ovalis_sentence_0
+Phoronis ovalis_sentence_1
+Phoronopsis californica_sentence_0
+Phoronopsis californica_sentence_1|context:Phoronid_sentence_0:Phoronid_title|Phoronis_sentence_2:Phoronis_title|Phoronis ovalis_sentence_0:Phoronis ovalis_title|Phoronis ovalis_sentence_1:Phoronis ovalis_title|Phoronopsis californica_sentence_0:Phoronopsis californica_title|Phoronopsis californica_sentence_1:Phoronopsis californica_title
+Phoronid_sentence_0
+Phoronis_cell_0_4_0
+Phoronis_cell_0_4_1
+Phoronis australis_cell_0_3_0
+Phoronis australis_cell_0_3_1
+Phoronopsis californica_cell_0_3_0
+Phoronopsis californica_cell_0_3_1
+Phoronis australis_sentence_1
+Phoronopsis californica_sentence_1|context:Phoronid_sentence_0:Phoronid_title|Phoronis_cell_0_4_0:Phoronis_title
+Phoronis_header_cell_0_1_0
+Phoronis_header_cell_0_0_0|Phoronis_cell_0_4_1:Phoronis_title
+Phoronis_header_cell_0_1_0
+Phoronis_header_cell_0_0_0|Phoronis australis_cell_0_3_0:Phoronis australis_title
+Phoronis australis_header_cell_0_1_0
+Phoronis australis_header_cell_0_0_0|Phoronis australis_cell_0_3_1:Phoronis australis_title
+Phoronis australis_header_cell_0_1_0
+Phoronis australis_header_cell_0_0_0|Phoronopsis californica_cell_0_3_0:Phoronopsis californica_title
+Phoronopsis californica_header_cell_0_1_0
+Phoronopsis californica_header_cell_0_0_0|Phoronopsis californica_cell_0_3_1:Phoronopsis californica_title
+Phoronopsis californica_header_cell_0_1_0
+Phoronopsis californica_header_cell_0_0_0|Phoronis australis_sentence_1:Phoronis australis_title|Phoronopsis californica_sentence_1:Phoronopsis californica_title",Multi-hop Reasoning
